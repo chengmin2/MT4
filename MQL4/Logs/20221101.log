@@ -1,0 +1,56 @@
+0	09:34:25.953	Custom indicator ZigZag EURUSD,M15: loaded successfully
+0	09:34:25.968	Custom indicator RSI EURUSD,M15: loaded successfully
+0	09:34:25.986	Custom indicator CCI EURUSD,M15: loaded successfully
+0	09:34:26.018	ZigZag EURUSD,M15: initialized
+0	09:34:26.051	RSI EURUSD,M15: initialized
+0	09:34:26.079	CCI EURUSD,M15: initialized
+0	09:34:26.252	Custom indicator ZigZag EURAUD,M1: loaded successfully
+0	09:34:26.279	ZigZag EURAUD,M1: initialized
+0	09:34:26.365	Custom indicator myZhiBiao\4-tf-t3-cci-arrows-alerts XAUUSD,M1: loaded successfully
+0	09:34:26.410	4-tf-t3-cci-arrows-alerts XAUUSD,M1: initialized
+0	09:34:26.872	Custom indicator ZigZag EURCAD,H1: loaded successfully
+0	09:34:26.899	ZigZag EURCAD,H1: initialized
+0	09:54:02.603	ZigZag EURCAD,H1: uninit reason 3
+0	09:54:02.613	ZigZag EURCAD,M1: initialized
+0	09:57:28.287	ZigZag EURCAD,M1: uninit reason 3
+0	09:57:28.288	ZigZag EURCAD,H1: initialized
+0	09:57:50.216	ZigZag EURCAD,H1: uninit reason 3
+0	09:57:50.220	ZigZag EURCAD,M1: initialized
+0	10:07:59.964	4-tf-t3-cci-arrows-alerts XAUUSD,M1: uninit reason 4
+0	10:07:59.979	Custom indicator 4-tf-t3-cci-arrows-alerts XAUUSD,M1: removed
+0	10:08:28.518	Custom indicator ZigZag GBPCAD,M1: loaded successfully
+0	10:08:28.533	ZigZag GBPCAD,M1: initialized
+0	10:09:19.397	Custom indicator ZigZag GBPAUD,M1: loaded successfully
+0	10:09:19.411	ZigZag GBPAUD,M1: initialized
+0	10:09:27.459	ZigZag GBPAUD,M1: uninit reason 3
+0	10:09:27.460	ZigZag GBPAUD,H1: initialized
+0	10:09:32.184	ZigZag GBPAUD,H1: uninit reason 3
+0	10:09:32.185	ZigZag GBPAUD,M1: initialized
+0	11:12:13.702	ZigZag GBPCAD,M1: uninit reason 4
+0	11:12:13.704	Custom indicator ZigZag GBPCAD,M1: removed
+0	11:12:14.801	ZigZag GBPAUD,M1: uninit reason 4
+0	11:12:14.804	Custom indicator ZigZag GBPAUD,M1: removed
+0	11:23:40.967	Custom indicator ZigZag CADCHF,H4: loaded successfully
+0	11:23:40.978	Custom indicator RSI CADCHF,H4: loaded successfully
+0	11:23:40.989	Custom indicator CCI CADCHF,H4: loaded successfully
+0	11:23:41.004	ZigZag CADCHF,H4: initialized
+0	11:23:41.019	RSI CADCHF,H4: initialized
+0	11:23:41.032	CCI CADCHF,H4: initialized
+0	11:23:52.195	ZigZag CADCHF,H4: uninit reason 3
+0	11:23:52.195	RSI CADCHF,H4: uninit reason 3
+0	11:23:52.195	CCI CADCHF,H4: uninit reason 3
+0	11:23:52.198	ZigZag CADCHF,H1: initialized
+0	11:23:52.199	RSI CADCHF,H1: initialized
+0	11:23:52.199	CCI CADCHF,H1: initialized
+0	11:24:27.432	ZigZag CADCHF,H1: uninit reason 4
+0	11:24:27.432	RSI CADCHF,H1: uninit reason 4
+0	11:24:27.432	CCI CADCHF,H1: uninit reason 4
+0	11:24:27.434	Custom indicator ZigZag CADCHF,H1: removed
+0	11:24:27.436	Custom indicator RSI CADCHF,H1: removed
+0	11:24:27.437	Custom indicator CCI CADCHF,H1: removed
+0	15:04:24.598	ZigZag EURAUD,M1: uninit reason 3
+0	15:04:24.608	ZigZag EURAUD,M5: initialized
+0	15:20:08.151	ZigZag EURCAD,M1: uninit reason 4
+0	15:20:08.153	Custom indicator ZigZag EURCAD,M1: removed
+0	15:22:07.355	ZigZag EURAUD,M5: uninit reason 4
+0	15:22:07.357	Custom indicator ZigZag EURAUD,M5: removed

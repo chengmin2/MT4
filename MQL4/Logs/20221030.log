@@ -1,0 +1,143 @@
+0	19:00:35.029	Custom indicator ZigZag EURUSD,M15: loaded successfully
+0	19:00:35.038	Custom indicator RSI EURUSD,M15: loaded successfully
+0	19:00:35.048	Custom indicator CCI EURUSD,M15: loaded successfully
+0	19:00:35.066	ZigZag EURUSD,M15: initialized
+0	19:00:35.079	RSI EURUSD,M15: initialized
+0	19:00:35.092	CCI EURUSD,M15: initialized
+0	19:00:35.210	Custom indicator myZhiBiao\ADF XAUUSD,M5: loaded successfully
+0	19:00:35.227	Custom indicator myZhiBiao\Arrow_Alert XAUUSD,M5: loaded successfully
+0	19:00:35.241	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	19:00:35.241	1_111_txSignal XAUUSD,M5 inputs: magic=7777; EAComment=VV3; 手数=0.1; 止损=200; 止盈=1000; risk=0; 移动止损开关=true; 移损启动点数=400; 移损间隔=100.0; 加仓倍数=1.1; 加仓次数=5; 加仓间隔=100; profit=10.0; nk=10; signal=6; 
+0	19:00:35.265	ADF XAUUSD,M5: initialized
+0	19:00:35.284	Arrow_Alert XAUUSD,M5: initialized
+0	19:00:35.664	Custom indicator RSI EURAUD,M1: loaded successfully
+0	19:00:35.678	Custom indicator CCI EURAUD,M1: loaded successfully
+0	19:00:35.700	RSI EURAUD,M1: initialized
+0	19:00:35.714	CCI EURAUD,M1: initialized
+0	19:00:41.516	1_111_txSignal XAUUSD,M5: initialized
+0	19:00:46.878	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	19:00:46.880	Expert 1_111_txSignal XAUUSD,M5: removed
+0	19:00:46.890	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	19:00:46.920	1_111_txSignal XAUUSD,M5: initialized
+0	19:00:52.986	Expert 测试中\1_111_txSignal EURCAD,H1: loaded successfully
+0	19:02:04.848	Expert 1_111_txSignal EURCAD,H1: removed
+0	19:03:09.908	Expert 测试中\1_111_txSignal EURCAD,H1: loaded successfully
+0	19:03:26.764	Expert 1_111_txSignal EURCAD,H1: removed
+0	19:05:46.819	Expert 测试中\1_111_txSignal EURCAD,H1: loaded successfully
+0	19:05:49.119	Expert 1_111_txSignal EURCAD,H1: removed
+0	19:37:14.513	Expert 测试中\1_111_txSignal EURCAD,H1: loaded successfully
+0	19:37:15.752	1_111_txSignal EURCAD,H1 inputs: magic=512332; EAComment=tx_signal; 手数=0.1; 止损=200; 止盈=1000; risk=0; 移动止损开关=true; 移损启动点数=400; 移损间隔=100.0; 加仓倍数=1.1; 加仓次数=5; 加仓间隔=100; profit=10.0; nk=10; signal=6; 
+0	19:37:15.792	1_111_txSignal EURCAD,H1: initialized
+0	19:37:15.792	1_111_txSignal EURCAD,H1: uninit reason 1
+0	19:37:15.792	1_111_txSignal EURCAD,H1: initialized
+0	19:37:32.958	1_111_txSignal EURCAD,H1: uninit reason 1
+0	19:37:32.962	Expert 1_111_txSignal EURCAD,H1: removed
+0	19:37:32.974	Expert 测试中\1_111 - 副本 EURCAD,H1: loaded successfully
+0	19:37:34.237	1_111 - 副本 EURCAD,H1 inputs: magic=7777; EAComment=VV3; 手数=0.1; 止损=200; 止盈=1000; risk=0; 移动止损开关=true; 移损启动点数=400; 移损间隔=100.0; 减仓开关=true; 减仓启动点数=300; 减仓百分比=50.0; 实时均线平仓开关=true; 收盘均线平仓开关=true; 均线周期=100; 加仓倍数=1.1; 加仓次数=5; 加仓间隔=100; 确认秒数=10; nk=10; 
+0	19:37:34.274	1_111 - 副本 EURCAD,H1: initialized
+0	19:46:22.115	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	19:46:22.117	Expert 1_111_txSignal XAUUSD,M5: removed
+0	19:46:22.127	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	19:46:22.162	1_111_txSignal XAUUSD,M5: initialized
+0	20:03:44.947	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:03:44.949	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:03:44.960	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:03:44.994	1_111_txSignal XAUUSD,M5: initialized
+0	20:06:10.582	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:06:10.585	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:06:10.597	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:06:10.637	1_111_txSignal XAUUSD,M5: initialized
+0	20:10:27.202	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:10:27.204	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:10:27.214	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:10:27.252	1_111_txSignal XAUUSD,M5: initialized
+0	20:10:44.092	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:10:44.094	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:10:44.105	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:10:44.135	1_111_txSignal XAUUSD,M5: initialized
+0	20:15:51.083	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:15:51.084	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:15:51.094	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:15:51.129	1_111_txSignal XAUUSD,M5: initialized
+0	20:23:52.859	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:23:52.861	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:23:52.871	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:23:52.900	1_111_txSignal XAUUSD,M5: initialized
+0	20:26:12.395	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:26:12.397	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:26:12.407	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:26:12.438	1_111_txSignal XAUUSD,M5: initialized
+0	20:26:16.404	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:26:16.406	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:26:16.415	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:26:16.444	1_111_txSignal XAUUSD,M5: initialized
+0	20:26:27.448	1_111 - 副本 EURCAD,H1: uninit reason 4
+0	20:26:27.451	Expert 1_111 - 副本 EURCAD,H1: removed
+0	20:27:55.277	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:27:55.279	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:27:55.290	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:27:55.332	1_111_txSignal XAUUSD,M5: initialized
+0	20:28:38.204	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:28:38.206	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:28:38.217	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:28:38.254	1_111_txSignal XAUUSD,M5: initialized
+0	20:48:45.417	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:48:45.419	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:48:45.429	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:48:45.462	1_111_txSignal XAUUSD,M5: initialized
+0	20:48:52.399	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:48:52.401	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:48:52.410	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:48:52.442	1_111_txSignal XAUUSD,M5: initialized
+0	20:48:57.143	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:48:57.145	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:48:57.155	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:48:57.189	1_111_txSignal XAUUSD,M5: initialized
+0	20:51:03.409	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:51:03.411	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:51:03.422	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:51:03.455	1_111_txSignal XAUUSD,M5: initialized
+0	20:55:04.606	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	20:55:04.608	Expert 1_111_txSignal XAUUSD,M5: removed
+0	20:55:04.618	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	20:55:04.652	1_111_txSignal XAUUSD,M5: initialized
+0	21:15:44.038	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	21:15:44.040	Expert 1_111_txSignal XAUUSD,M5: removed
+0	21:15:44.055	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	21:15:44.087	1_111_txSignal XAUUSD,M5: initialized
+0	21:18:13.871	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	21:18:13.873	Expert 1_111_txSignal XAUUSD,M5: removed
+0	21:18:13.883	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	21:18:13.918	1_111_txSignal XAUUSD,M5: initialized
+0	21:20:27.369	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	21:20:27.371	Expert 1_111_txSignal XAUUSD,M5: removed
+0	21:20:27.381	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	21:20:27.410	1_111_txSignal XAUUSD,M5: initialized
+0	21:20:31.569	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	21:20:31.571	Expert 1_111_txSignal XAUUSD,M5: removed
+0	21:20:31.581	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	21:20:31.612	1_111_txSignal XAUUSD,M5: initialized
+0	21:25:47.366	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	21:25:47.368	Expert 1_111_txSignal XAUUSD,M5: removed
+0	21:25:47.379	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	21:25:47.413	1_111_txSignal XAUUSD,M5: initialized
+0	21:30:12.792	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	21:30:12.795	Expert 1_111_txSignal XAUUSD,M5: removed
+0	21:30:12.804	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	21:30:12.834	1_111_txSignal XAUUSD,M5: initialized
+0	21:30:38.501	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	21:30:38.503	Expert 1_111_txSignal XAUUSD,M5: removed
+0	21:30:38.514	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	21:30:38.543	1_111_txSignal XAUUSD,M5: initialized
+0	21:30:42.976	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	21:30:42.979	Expert 1_111_txSignal XAUUSD,M5: removed
+0	21:30:42.989	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	21:30:43.020	1_111_txSignal XAUUSD,M5: initialized
+0	21:30:54.509	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	21:30:54.512	Expert 1_111_txSignal XAUUSD,M5: removed
+0	21:30:54.521	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	21:30:54.551	1_111_txSignal XAUUSD,M5: initialized
+0	21:31:03.952	1_111_txSignal XAUUSD,M5: uninit reason 2
+0	21:31:03.953	Expert 1_111_txSignal XAUUSD,M5: removed
+0	21:31:03.964	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	21:31:03.995	1_111_txSignal XAUUSD,M5: initialized

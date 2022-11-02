@@ -1,0 +1,167 @@
+0	10:12:46.153	Custom indicator ZigZag EURUSD,M15: loaded successfully
+0	10:12:46.163	Custom indicator RSI EURUSD,M15: loaded successfully
+0	10:12:46.172	Custom indicator CCI EURUSD,M15: loaded successfully
+0	10:12:46.190	ZigZag EURUSD,M15: initialized
+0	10:12:46.203	RSI EURUSD,M15: initialized
+0	10:12:46.216	CCI EURUSD,M15: initialized
+0	10:12:46.339	Custom indicator myZhiBiao\ADF XAUUSD,M5: loaded successfully
+0	10:12:46.348	Custom indicator myZhiBiao\Arrow_Alert XAUUSD,M5: loaded successfully
+0	10:12:46.358	Expert 测试中\1_111_txSignal XAUUSD,M5: loaded successfully
+0	10:12:46.359	1_111_txSignal XAUUSD,M5 inputs: magic=7777; EAComment=VV3; 手数=0.1; 止损=200; 止盈=1000; risk=0; 移动止损开关=true; 移损启动点数=400; 移损间隔=100.0; 加仓倍数=1.1; 加仓次数=5; 加仓间隔=100; profit=10.0; nk=10; signal=6; 
+0	10:12:46.373	ADF XAUUSD,M5: initialized
+0	10:12:46.391	Arrow_Alert XAUUSD,M5: initialized
+0	10:12:46.654	Custom indicator RSI EURAUD,M1: loaded successfully
+0	10:12:46.664	Custom indicator CCI EURAUD,M1: loaded successfully
+0	10:12:46.687	RSI EURAUD,M1: initialized
+0	10:12:46.700	CCI EURAUD,M1: initialized
+0	10:12:51.419	1_111_txSignal XAUUSD,M5: initialized
+3	10:12:57.334	1_111_txSignal XAUUSD,M5: invalid lots amount for OrderSend function
+3	10:15:01.230	1_111_txSignal XAUUSD,M5: invalid lots amount for OrderSend function
+0	10:20:00.720	Arrow_Alert XAUUSD,M5: Alert: Arrow_Alert:  XAUUSD, M5    BUY
+0	10:20:00.941	Arrow_Alert XAUUSD,M5: Alert: Arrow_Alert:  XAUUSD, M5    BUY
+0	10:20:00.942	1_111_txSignal XAUUSD,M5: 买涨信号
+0	10:20:00.942	1_111_txSignal XAUUSD,M5: 涨单开仓
+3	10:20:01.281	1_111_txSignal XAUUSD,M5: invalid lots amount for OrderSend function
+0	10:25:06.899	1_111_txSignal XAUUSD,M5: 买涨信号
+3	10:25:06.899	1_111_txSignal XAUUSD,M5: invalid lots amount for OrderSend function
+0	10:29:14.874	1_111_txSignal XAUUSD,M5: uninit reason 1
+0	10:29:14.887	Expert 1_111_txSignal XAUUSD,M5: removed
+0	10:29:14.897	Expert 测试中\1_111 - 副本 XAUUSD,M5: loaded successfully
+0	10:29:16.324	Expert 1_111 - 副本 XAUUSD,M5: removed
+0	10:29:17.383	ADF XAUUSD,M5: uninit reason 3
+0	10:29:17.384	Arrow_Alert XAUUSD,M5: uninit reason 3
+0	10:29:17.389	ADF XAUUSD,M1: initialized
+0	10:29:17.389	Arrow_Alert XAUUSD,M1: initialized
+0	10:29:20.152	Expert 测试中\1_111 - 副本 XAUUSD,M1: loaded successfully
+0	10:29:21.759	1_111 - 副本 XAUUSD,M1 inputs: magic=7777; EAComment=VV3; 手数=0.1; 止损=200; 止盈=1000; risk=0; 移动止损开关=true; 移损启动点数=400; 移损间隔=100.0; 减仓开关=true; 减仓启动点数=300; 减仓百分比=50.0; 实时均线平仓开关=true; 收盘均线平仓开关=true; 均线周期=100; 加仓倍数=1.1; 加仓次数=5; 加仓间隔=100; 确认秒数=10; nk=10; 
+0	10:29:21.790	1_111 - 副本 XAUUSD,M1: initialized
+0	10:29:28.080	ADF XAUUSD,M1: uninit reason 4
+0	10:29:28.080	Arrow_Alert XAUUSD,M1: uninit reason 4
+0	10:29:28.085	1_111 - 副本 XAUUSD,M1: uninit reason 4
+0	10:29:28.093	Expert 1_111 - 副本 XAUUSD,M1: removed
+0	10:29:28.095	Custom indicator ADF XAUUSD,M1: removed
+0	10:29:28.096	Custom indicator Arrow_Alert XAUUSD,M1: removed
+0	10:29:34.903	Expert 测试中\1_111 - 副本 XAUUSD,M1: loaded successfully
+0	10:29:36.000	1_111 - 副本 XAUUSD,M1 inputs: magic=7777; EAComment=VV3; 手数=0.1; 止损=200; 止盈=1000; risk=0; 移动止损开关=true; 移损启动点数=400; 移损间隔=100.0; 减仓开关=true; 减仓启动点数=300; 减仓百分比=50.0; 实时均线平仓开关=true; 收盘均线平仓开关=true; 均线周期=100; 加仓倍数=1.1; 加仓次数=5; 加仓间隔=100; 确认秒数=10; nk=10; 
+0	10:29:36.037	1_111 - 副本 XAUUSD,M1: initialized
+0	10:31:00.837	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    SELL
+0	10:31:00.838	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-3.658716649745948
+0	10:31:00.838	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-3.658716649745948
+0	10:33:00.679	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    BUY
+0	10:33:00.679	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert up=16.72459942517661
+0	10:38:00.776	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    SELL
+0	10:38:00.776	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-5.897585653174914
+0	10:38:00.776	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-5.897585653174914
+0	11:07:02.986	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    BUY
+0	11:07:02.987	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert up=16.72459942517661
+0	11:13:01.357	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    SELL
+0	11:13:01.358	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-5.110900205411586
+0	11:13:01.358	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-5.110900205411586
+0	11:14:00.526	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    BUY
+0	11:14:00.527	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert up=16.72459942517661
+0	11:20:09.708	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    SELL
+0	11:20:09.709	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-16.72459942517661
+0	11:20:09.709	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-16.72459942517661
+0	11:21:00.673	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    BUY
+0	11:21:00.674	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert up=16.72459942517661
+0	11:30:00.420	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    SELL
+0	11:30:00.420	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-7.43343692495305
+0	11:30:00.420	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-7.43343692495305
+0	11:32:00.893	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    BUY
+0	11:32:00.893	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert up=0.3127501736150256
+0	11:39:03.015	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    SELL
+0	11:39:03.015	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-16.72459942517661
+0	11:39:03.015	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert down=-16.72459942517661
+0	11:44:07.740	Arrow_Alert XAUUSD,M1: Alert: Arrow_Alert:  XAUUSD, M1    BUY
+0	11:44:07.740	1_111 - 副本 XAUUSD,M1: Alert: Arrow_Alert up=14.47037406686174
+0	11:45:52.037	1_111 - 副本 XAUUSD,M1: uninit reason 1
+0	11:45:52.054	Expert 1_111 - 副本 XAUUSD,M1: removed
+0	11:45:52.065	Expert 测试中\1_111 - 副本 XAUUSD,M1: loaded successfully
+0	11:45:58.750	1_111 - 副本 XAUUSD,M1 inputs: magic=7777; EAComment=VV3; 手数=0.1; 止损=200; 止盈=1000; risk=0; 移动止损开关=true; 移损启动点数=400; 移损间隔=100.0; 减仓开关=true; 减仓启动点数=300; 减仓百分比=50.0; 实时均线平仓开关=true; 收盘均线平仓开关=true; 均线周期=100; 加仓倍数=1.1; 加仓次数=5; 加仓间隔=100; 确认秒数=10; nk=10; 
+0	11:45:58.784	1_111 - 副本 XAUUSD,M1: initialized
+0	11:48:56.648	1_111 - 副本 XAUUSD,M1: uninit reason 3
+0	11:48:56.655	1_111 - 副本 XAUUSD,H1: initialized
+0	11:49:05.413	1_111 - 副本 XAUUSD,H1: uninit reason 1
+0	11:49:05.439	Expert 1_111 - 副本 XAUUSD,H1: removed
+0	11:49:05.449	Expert 测试中\1_111 - 副本 XAUUSD,H1: loaded successfully
+0	11:49:07.506	1_111 - 副本 XAUUSD,H1 inputs: magic=7777; EAComment=VV3; 手数=0.1; 止损=200; 止盈=1000; risk=0; 移动止损开关=true; 移损启动点数=400; 移损间隔=100.0; 减仓开关=true; 减仓启动点数=300; 减仓百分比=50.0; 实时均线平仓开关=true; 收盘均线平仓开关=true; 均线周期=100; 加仓倍数=1.1; 加仓次数=5; 加仓间隔=100; 确认秒数=10; nk=10; 
+0	11:49:07.539	1_111 - 副本 XAUUSD,H1: initialized
+0	13:54:30.176	1_111 - 副本 XAUUSD,H1: uninit reason 4
+0	13:54:30.188	Expert 1_111 - 副本 XAUUSD,H1: removed
+0	14:07:02.639	Compiling 'myZhiBiao\4-tf-t3-cci-arrows-alerts'
+0	14:07:09.393	Custom indicator myZhiBiao\4-tf-t3-cci-arrows-alerts GBPCAD,M1: loaded successfully
+0	14:07:10.473	4-tf-t3-cci-arrows-alerts GBPCAD,M1: initialized
+0	14:07:46.155	4-tf-t3-cci-arrows-alerts GBPCAD,M1: uninit reason 3
+0	14:07:46.169	4-tf-t3-cci-arrows-alerts GBPCAD,M5: initialized
+0	14:07:53.023	4-tf-t3-cci-arrows-alerts GBPCAD,M5: uninit reason 4
+0	14:07:53.037	Custom indicator 4-tf-t3-cci-arrows-alerts GBPCAD,M5: removed
+0	14:08:01.495	Custom indicator myZhiBiao\4-tf-t3-cci-arrows-alerts XAUUSD,M1: loaded successfully
+0	14:08:02.893	Custom indicator 4-tf-t3-cci-arrows-alerts XAUUSD,M1: removed
+0	14:08:04.437	Custom indicator myZhiBiao\4-tf-t3-cci-arrows-alerts XAUUSD,M1: loaded successfully
+0	14:08:06.188	4-tf-t3-cci-arrows-alerts XAUUSD,M1: initialized
+0	14:09:24.323	Custom indicator myZhiBiao\4-tf-t3-cci-arrows-alerts XAUUSD,M1: loaded successfully
+0	14:09:44.327	Custom indicator 4-tf-t3-cci-arrows-alerts XAUUSD,M1: removed
+0	14:09:53.916	Custom indicator myZhiBiao\4-tf-t3-cci-arrows-alerts XAUUSD,M1: loaded successfully
+0	14:12:27.950	Custom indicator 4-tf-t3-cci-arrows-alerts XAUUSD,M1: removed
+0	14:14:34.452	Custom indicator myZhiBiao\4-tf-t3-cci-arrows-alerts XAUUSD,M1: loaded successfully
+0	14:17:41.144	Custom indicator 4-tf-t3-cci-arrows-alerts XAUUSD,M1: removed
+0	14:18:29.506	RSI EURAUD,M1: uninit reason 1
+0	14:18:29.508	Custom indicator RSI EURAUD,M1: removed
+0	14:18:31.642	CCI EURAUD,M1: uninit reason 1
+0	14:18:31.644	Custom indicator CCI EURAUD,M1: removed
+0	14:23:05.085	Compiling 'myZhiBiao\RSIarrows'
+0	14:23:18.832	Custom indicator myZhiBiao\RSIarrows XAUUSD,M1: loaded successfully
+0	14:23:19.856	RSIarrows XAUUSD,M1: initialized
+0	14:24:37.761	Custom indicator RSI XAUUSD,M1: loaded successfully
+0	14:24:38.888	RSI XAUUSD,M1: initialized
+0	14:25:00.181	RSIarrows XAUUSD,M1: Alert: XAUUSD at 14:25:00 RSI + Bollinger bands entering up zone
+0	14:25:48.606	RSI XAUUSD,M1: uninit reason 5
+0	14:25:48.633	RSI XAUUSD,M1: initialized
+0	14:41:59.932	RSIarrows XAUUSD,M1: Alert: XAUUSD at 14:41:59 RSI + Bollinger bands entering up zone
+0	14:45:00.186	RSIarrows XAUUSD,M1: Alert: XAUUSD at 14:45:00 RSI + Bollinger bands entering up zone
+0	14:53:59.986	RSIarrows XAUUSD,M1: Alert: XAUUSD at 14:53:59 RSI + Bollinger bands entering down zone
+0	14:59:02.516	RSIarrows XAUUSD,M1: Alert: XAUUSD at 14:59:02 RSI + Bollinger bands entering up zone
+0	15:08:00.131	RSIarrows XAUUSD,M1: Alert: XAUUSD at 15:08:00 RSI + Bollinger bands entering down zone
+0	15:17:00.315	RSIarrows XAUUSD,M1: Alert: XAUUSD at 15:17:00 RSI + Bollinger bands entering down zone
+0	15:31:00.033	RSIarrows XAUUSD,M1: Alert: XAUUSD at 15:31:00 RSI + Bollinger bands entering up zone
+0	15:52:00.179	RSIarrows XAUUSD,M1: Alert: XAUUSD at 15:52:00 RSI + Bollinger bands entering down zone
+0	15:55:00.081	RSIarrows XAUUSD,M1: Alert: XAUUSD at 15:55:00 RSI + Bollinger bands entering down zone
+0	16:02:00.890	RSIarrows XAUUSD,M1: Alert: XAUUSD at 16:02:00 RSI + Bollinger bands entering down zone
+0	16:20:00.080	RSIarrows XAUUSD,M1: Alert: XAUUSD at 16:20:00 RSI + Bollinger bands entering down zone
+0	16:23:00.122	RSIarrows XAUUSD,M1: Alert: XAUUSD at 16:23:00 RSI + Bollinger bands entering up zone
+0	16:34:59.865	RSIarrows XAUUSD,M1: Alert: XAUUSD at 16:34:59 RSI + Bollinger bands entering down zone
+0	16:45:01.745	RSIarrows XAUUSD,M1: Alert: XAUUSD at 16:45:01 RSI + Bollinger bands entering up zone
+0	16:55:59.878	RSIarrows XAUUSD,M1: Alert: XAUUSD at 16:55:59 RSI + Bollinger bands entering up zone
+0	17:20:00.208	RSIarrows XAUUSD,M1: Alert: XAUUSD at 17:20:00 RSI + Bollinger bands entering up zone
+0	17:26:16.519	RSIarrows XAUUSD,M1: uninit reason 4
+0	17:26:16.520	RSI XAUUSD,M1: uninit reason 4
+0	17:26:16.523	Custom indicator RSIarrows XAUUSD,M1: removed
+0	17:26:16.525	Custom indicator RSI XAUUSD,M1: removed
+0	20:06:54.110	Custom indicator ZigZag EURAUD,M1: loaded successfully
+0	20:06:54.125	ZigZag EURAUD,M1: initialized
+0	20:07:00.894	ZigZag EURAUD,M1: uninit reason 3
+0	20:07:00.898	ZigZag EURAUD,H1: initialized
+0	20:07:06.803	ZigZag EURAUD,H1: uninit reason 3
+0	20:07:06.804	ZigZag EURAUD,M1: initialized
+0	20:13:03.969	ZigZag EURAUD,M1: uninit reason 3
+0	20:13:03.973	ZigZag EURAUD,H1: initialized
+0	20:13:10.109	ZigZag EURAUD,H1: uninit reason 3
+0	20:13:10.110	ZigZag EURAUD,M1: initialized
+0	20:21:05.818	ZigZag EURAUD,M1: uninit reason 3
+0	20:21:05.821	ZigZag EURAUD,H1: initialized
+0	20:21:12.045	ZigZag EURAUD,H1: uninit reason 3
+0	20:21:12.046	ZigZag EURAUD,M1: initialized
+0	20:21:45.929	Custom indicator ZigZag EURCAD,H1: loaded successfully
+0	20:21:45.942	ZigZag EURCAD,H1: initialized
+0	20:21:53.724	ZigZag EURCAD,H1: uninit reason 3
+0	20:21:53.737	ZigZag EURCAD,M1: initialized
+0	20:26:53.682	ZigZag EURCAD,M1: uninit reason 3
+0	20:26:53.682	ZigZag EURCAD,H1: initialized
+0	20:26:58.249	ZigZag EURCAD,H1: uninit reason 3
+0	20:26:58.251	ZigZag EURCAD,M1: initialized
+0	20:58:10.862	ZigZag EURCAD,M1: uninit reason 3
+0	20:58:10.862	ZigZag EURCAD,H1: initialized
+0	20:58:22.829	ZigZag EURCAD,H1: uninit reason 3
+0	20:58:22.833	ZigZag EURCAD,M1: initialized
+0	22:47:46.636	4-tf-t3-cci-arrows-alerts XAUUSD,M1: uninit reason 1
+0	22:47:46.651	Custom indicator 4-tf-t3-cci-arrows-alerts XAUUSD,M1: removed
