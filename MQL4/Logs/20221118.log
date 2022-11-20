@@ -1,0 +1,276 @@
+0	10:51:45.354	Custom indicator ZigZag EURUSD,M1: loaded successfully
+0	10:51:45.363	Custom indicator RSI EURUSD,M1: loaded successfully
+0	10:51:45.372	Custom indicator CCI EURUSD,M1: loaded successfully
+0	10:51:45.397	ZigZag EURUSD,M1: initialized
+0	10:51:45.409	RSI EURUSD,M1: initialized
+0	10:51:45.423	CCI EURUSD,M1: initialized
+0	10:51:45.497	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	10:51:45.506	Custom indicator RSI GBPUSD,H1: loaded successfully
+0	10:51:45.515	Custom indicator CCI GBPUSD,H1: loaded successfully
+0	10:51:45.533	ZigZag GBPUSD,H1: initialized
+0	10:51:45.545	RSI GBPUSD,H1: initialized
+0	10:51:45.558	CCI GBPUSD,H1: initialized
+0	10:51:45.632	Custom indicator ZigZag XAUUSD,M15: loaded successfully
+0	10:51:45.642	Custom indicator RSI XAUUSD,M15: loaded successfully
+0	10:51:45.651	Custom indicator CCI XAUUSD,M15: loaded successfully
+0	10:51:45.673	ZigZag XAUUSD,M15: initialized
+0	10:51:45.685	RSI XAUUSD,M15: initialized
+0	10:51:45.698	CCI XAUUSD,M15: initialized
+0	10:51:45.778	Custom indicator ZigZag XAUUSD,M15: loaded successfully
+0	10:51:45.787	Custom indicator RSI XAUUSD,M15: loaded successfully
+0	10:51:45.797	Custom indicator CCI XAUUSD,M15: loaded successfully
+0	10:51:45.811	ZigZag XAUUSD,M15: initialized
+0	10:51:45.823	RSI XAUUSD,M15: initialized
+0	10:51:45.836	CCI XAUUSD,M15: initialized
+0	10:51:45.917	Custom indicator ZigZag EURCAD,M15: loaded successfully
+0	10:51:45.926	Custom indicator RSI EURCAD,M15: loaded successfully
+0	10:51:45.936	Custom indicator CCI EURCAD,M15: loaded successfully
+0	10:51:45.955	ZigZag EURCAD,M15: initialized
+0	10:51:45.967	RSI EURCAD,M15: initialized
+0	10:51:45.981	CCI EURCAD,M15: initialized
+0	10:51:46.048	Custom indicator ZigZag EURAUD,M15: loaded successfully
+0	10:51:46.057	Custom indicator RSI EURAUD,M15: loaded successfully
+0	10:51:46.079	ZigZag EURAUD,M15: initialized
+0	10:51:46.092	RSI EURAUD,M15: initialized
+0	10:51:46.144	Custom indicator Superrow XAUUSD,H4: loaded successfully
+0	10:51:46.154	Custom indicator Bands XAUUSD,H4: loaded successfully
+0	10:51:46.171	Superrow XAUUSD,H4: initialized
+0	10:51:46.184	Bands XAUUSD,H4: initialized
+0	10:51:46.300	Custom indicator ZigZag USDCHF,H1: loaded successfully
+0	10:51:46.309	Custom indicator RSI USDCHF,H1: loaded successfully
+0	10:51:46.318	Custom indicator CCI USDCHF,H1: loaded successfully
+0	10:51:46.334	ZigZag USDCHF,H1: initialized
+0	10:51:46.349	RSI USDCHF,H1: initialized
+0	10:51:46.361	CCI USDCHF,H1: initialized
+0	10:58:18.637	Custom indicator Superrow XAUUSD,M15: loaded successfully
+0	10:58:21.415	Superrow XAUUSD,M15: initialized
+0	11:03:55.085	Superrow XAUUSD,M15: uninit reason 2
+0	11:03:55.086	Custom indicator Superrow XAUUSD,M15: removed
+0	11:03:55.095	Custom indicator Superrow XAUUSD,M15: loaded successfully
+0	11:03:55.108	Superrow XAUUSD,M15: initialized
+0	11:03:55.190	Superrow XAUUSD,H4: uninit reason 2
+0	11:03:55.192	Custom indicator Superrow XAUUSD,H4: removed
+0	11:03:55.201	Custom indicator Superrow XAUUSD,H4: loaded successfully
+0	11:03:55.214	Superrow XAUUSD,H4: initialized
+0	11:04:04.584	Custom indicator Superrow XAUUSD,M15: loaded successfully
+0	11:04:05.674	Superrow XAUUSD,M15: initialized
+0	11:04:11.562	Custom indicator Superrow GBPUSD,H1: loaded successfully
+0	11:04:12.738	Superrow GBPUSD,H1: initialized
+0	11:09:11.072	Script CCI_RSI GBPUSD,H1: loaded successfully
+0	11:09:11.086	CCI_RSI GBPUSD,H1: initialized
+0	11:09:11.194	CCI_RSI GBPUSD,H1: Alert: 2147483647.0-- 2147483647.0
+0	11:09:11.194	CCI_RSI GBPUSD,H1: uninit reason 0
+0	11:09:11.198	Script CCI_RSI GBPUSD,H1: removed
+0	11:10:20.255	Script CCI_RSI GBPUSD,H1: loaded successfully
+0	11:10:20.269	CCI_RSI GBPUSD,H1: initialized
+0	11:10:20.395	CCI_RSI GBPUSD,H1: Alert: 1.17647-- 2147483647.0
+0	11:10:20.395	CCI_RSI GBPUSD,H1: uninit reason 0
+0	11:10:20.400	Script CCI_RSI GBPUSD,H1: removed
+0	12:26:21.234	ZigZag GBPUSD,H1: uninit reason 3
+0	12:26:21.234	Superrow GBPUSD,H1: uninit reason 3
+0	12:26:21.235	RSI GBPUSD,H1: uninit reason 3
+0	12:26:21.235	CCI GBPUSD,H1: uninit reason 3
+0	12:26:21.247	ZigZag GBPUSD,M1: initialized
+0	12:26:21.249	Superrow GBPUSD,M1: initialized
+0	12:26:21.250	RSI GBPUSD,M1: initialized
+0	12:26:21.251	CCI GBPUSD,M1: initialized
+0	12:27:07.527	ZigZag GBPUSD,M1: uninit reason 3
+0	12:27:07.527	Superrow GBPUSD,M1: uninit reason 3
+0	12:27:07.527	RSI GBPUSD,M1: uninit reason 3
+0	12:27:07.527	CCI GBPUSD,M1: uninit reason 3
+0	12:27:07.531	ZigZag GBPUSD,H1: initialized
+0	12:27:07.531	Superrow GBPUSD,H1: initialized
+0	12:27:07.531	RSI GBPUSD,H1: initialized
+0	12:27:07.532	CCI GBPUSD,H1: initialized
+0	13:59:46.513	Superrow XAUUSD,M15: Alert: XAUUSD 15   BUY
+0	13:59:46.513	Superrow XAUUSD,M15: Alert: XAUUSD 15   BUY
+0	14:39:40.968	ZigZag XAUUSD,M15: uninit reason 3
+0	14:39:40.968	Superrow XAUUSD,M15: uninit reason 3
+0	14:39:40.968	Superrow XAUUSD,M15: uninit reason 3
+0	14:39:40.969	RSI XAUUSD,M15: uninit reason 3
+0	14:39:40.969	CCI XAUUSD,M15: uninit reason 3
+0	14:39:40.980	ZigZag XAUUSD,H1: initialized
+0	14:39:40.981	Superrow XAUUSD,H1: initialized
+0	14:39:40.982	Superrow XAUUSD,H1: initialized
+0	14:39:40.983	RSI XAUUSD,H1: initialized
+0	14:39:40.984	CCI XAUUSD,H1: initialized
+0	14:40:05.305	Custom indicator Superrow XAUUSD,H1: loaded successfully
+0	14:40:06.583	Superrow XAUUSD,H1: initialized
+0	15:01:33.109	CCI EURUSD,M1: uninit reason 1
+0	15:01:33.110	Custom indicator CCI EURUSD,M1: removed
+0	15:01:38.562	RSI EURUSD,M1: uninit reason 1
+0	15:01:38.565	Custom indicator RSI EURUSD,M1: removed
+0	15:04:42.540	Custom indicator RSI EURUSD,M1: loaded successfully
+0	15:04:46.989	RSI EURUSD,M1: initialized
+0	15:07:35.039	Custom indicator Bands EURUSD,M1: loaded successfully
+0	15:07:45.377	Bands EURUSD,M1: initialized
+0	15:08:43.974	Custom indicator Superrow EURUSD,M1: loaded successfully
+0	15:08:46.298	Superrow EURUSD,M1: initialized
+0	15:21:31.794	Bands EURUSD,M1: uninit reason 1
+0	15:21:31.796	Custom indicator Bands EURUSD,M1: removed
+0	15:24:43.962	Custom indicator RSI EURUSD,M1: loaded successfully
+0	15:24:48.016	RSI EURUSD,M1: initialized
+0	15:35:44.606	ZigZag EURUSD,M1: uninit reason 4
+0	15:35:44.606	Superrow EURUSD,M1: uninit reason 4
+0	15:35:44.606	RSI EURUSD,M1: uninit reason 4
+0	15:35:44.606	RSI EURUSD,M1: uninit reason 4
+0	15:35:44.610	Custom indicator ZigZag EURUSD,M1: removed
+0	15:35:44.612	Custom indicator Superrow EURUSD,M1: removed
+0	15:35:44.613	Custom indicator RSI EURUSD,M1: removed
+0	15:35:44.615	Custom indicator RSI EURUSD,M1: removed
+0	15:35:50.429	ZigZag XAUUSD,M15: uninit reason 3
+0	15:35:50.429	RSI XAUUSD,M15: uninit reason 3
+0	15:35:50.429	CCI XAUUSD,M15: uninit reason 3
+0	15:35:50.444	ZigZag XAUUSD,M1: initialized
+0	15:35:50.445	RSI XAUUSD,M1: initialized
+0	15:35:50.447	CCI XAUUSD,M1: initialized
+0	15:36:01.131	Custom indicator Superrow XAUUSD,M1: loaded successfully
+0	15:36:04.148	Superrow XAUUSD,M1: initialized
+0	15:36:12.894	Script CCI_RSI XAUUSD,M1: loaded successfully
+0	15:36:12.908	CCI_RSI XAUUSD,M1: initialized
+0	15:36:13.010	CCI_RSI XAUUSD,M1: Alert: 2147483647.0-- 2147483647.0
+0	15:36:13.010	CCI_RSI XAUUSD,M1: uninit reason 0
+0	15:36:13.015	Script CCI_RSI XAUUSD,M1: removed
+0	15:37:20.447	Script CCI_RSI XAUUSD,M1: loaded successfully
+0	15:37:20.447	CCI_RSI XAUUSD,M1 inputs: k=10; 
+0	15:37:20.460	CCI_RSI XAUUSD,M1: initialized
+0	15:37:20.565	CCI_RSI XAUUSD,M1: Alert: 2147483647.0-- 2147483647.0
+0	15:37:20.565	CCI_RSI XAUUSD,M1: uninit reason 0
+0	15:37:20.569	Script CCI_RSI XAUUSD,M1: removed
+0	15:37:38.486	Script CCI_RSI XAUUSD,M1: loaded successfully
+0	15:37:38.486	CCI_RSI XAUUSD,M1 inputs: k=10; 
+0	15:37:38.499	CCI_RSI XAUUSD,M1: initialized
+0	15:37:38.604	CCI_RSI XAUUSD,M1: Alert: 2147483647.0-- 2147483647.0
+0	15:37:38.604	CCI_RSI XAUUSD,M1: uninit reason 0
+0	15:37:38.608	Script CCI_RSI XAUUSD,M1: removed
+0	15:38:05.587	Script CCI_RSI XAUUSD,M1: loaded successfully
+0	15:38:05.587	CCI_RSI XAUUSD,M1 inputs: k=10; 
+0	15:38:05.602	CCI_RSI XAUUSD,M1: initialized
+0	15:38:05.710	CCI_RSI XAUUSD,M1: Alert: 2147483647.0-- 1766.3
+0	15:38:05.710	CCI_RSI XAUUSD,M1: uninit reason 0
+0	15:38:05.715	Script CCI_RSI XAUUSD,M1: removed
+0	15:59:33.656	Custom indicator Superrow GBPUSD,H1: loaded successfully
+0	15:59:34.900	Superrow GBPUSD,H1: initialized
+0	16:00:00.191	Superrow XAUUSD,M1: Alert: XAUUSD 1   SELL
+0	16:01:14.950	ZigZag XAUUSD,H1: uninit reason 4
+0	16:01:14.950	Superrow XAUUSD,H1: uninit reason 4
+0	16:01:14.950	Superrow XAUUSD,H1: uninit reason 4
+0	16:01:14.951	Superrow XAUUSD,H1: uninit reason 4
+0	16:01:14.952	RSI XAUUSD,H1: uninit reason 4
+0	16:01:14.952	CCI XAUUSD,H1: uninit reason 4
+0	16:01:14.955	Custom indicator ZigZag XAUUSD,H1: removed
+0	16:01:14.956	Custom indicator Superrow XAUUSD,H1: removed
+0	16:01:14.957	Custom indicator Superrow XAUUSD,H1: removed
+0	16:01:14.959	Custom indicator Superrow XAUUSD,H1: removed
+0	16:01:14.960	Custom indicator RSI XAUUSD,H1: removed
+0	16:01:14.962	Custom indicator CCI XAUUSD,H1: removed
+0	16:03:26.255	ZigZag GBPUSD,H1: uninit reason 4
+0	16:03:26.255	Superrow GBPUSD,H1: uninit reason 4
+0	16:03:26.256	RSI GBPUSD,H1: uninit reason 4
+0	16:03:26.256	CCI GBPUSD,H1: uninit reason 4
+0	16:03:26.258	Custom indicator ZigZag GBPUSD,H1: removed
+0	16:03:26.260	Custom indicator Superrow GBPUSD,H1: removed
+0	16:03:26.261	Custom indicator RSI GBPUSD,H1: removed
+0	16:03:26.263	Custom indicator CCI GBPUSD,H1: removed
+0	16:03:31.587	Superrow GBPUSD,H1: uninit reason 4
+0	16:03:31.590	Custom indicator Superrow GBPUSD,H1: removed
+0	16:03:48.176	ZigZag EURAUD,M15: uninit reason 4
+0	16:03:48.176	RSI EURAUD,M15: uninit reason 4
+0	16:03:48.179	Custom indicator ZigZag EURAUD,M15: removed
+0	16:03:48.180	Custom indicator RSI EURAUD,M15: removed
+0	16:03:50.129	ZigZag EURCAD,M15: uninit reason 4
+0	16:03:50.129	RSI EURCAD,M15: uninit reason 4
+0	16:03:50.129	CCI EURCAD,M15: uninit reason 4
+0	16:03:50.131	Custom indicator ZigZag EURCAD,M15: removed
+0	16:03:50.133	Custom indicator RSI EURCAD,M15: removed
+0	16:03:50.134	Custom indicator CCI EURCAD,M15: removed
+0	17:14:00.116	Superrow XAUUSD,M1: Alert: XAUUSD 1   BUY
+0	17:32:05.559	Custom indicator Superrow GBPUSD,H1: loaded successfully
+0	17:32:06.572	Superrow GBPUSD,H1: initialized
+0	18:10:52.008	Superrow XAUUSD,M1: Alert: XAUUSD 1   SELL
+0	18:16:09.291	Superrow XAUUSD,M1: Alert: XAUUSD 1   BUY
+0	18:17:16.891	Superrow XAUUSD,M1: Alert: XAUUSD 1   SELL
+0	19:13:00.784	Superrow XAUUSD,M1: Alert: XAUUSD 1   BUY
+0	19:48:17.733	ZigZag XAUUSD,M1: uninit reason 3
+0	19:48:17.733	Superrow XAUUSD,M1: uninit reason 3
+0	19:48:17.734	RSI XAUUSD,M1: uninit reason 3
+0	19:48:17.734	CCI XAUUSD,M1: uninit reason 3
+0	19:48:17.742	ZigZag XAUUSD,H1: initialized
+0	19:48:17.744	Superrow XAUUSD,H1: initialized
+0	19:48:17.745	RSI XAUUSD,H1: initialized
+0	19:48:17.746	CCI XAUUSD,H1: initialized
+0	19:48:17.910	Superrow XAUUSD,H1: Alert: XAUUSD 60   SELL
+0	20:58:59.703	ZigZag XAUUSD,H1: uninit reason 3
+0	20:58:59.703	Superrow XAUUSD,H1: uninit reason 3
+0	20:58:59.704	RSI XAUUSD,H1: uninit reason 3
+0	20:58:59.704	CCI XAUUSD,H1: uninit reason 3
+0	20:58:59.710	ZigZag XAUUSD,M1: initialized
+0	20:58:59.711	Superrow XAUUSD,M1: initialized
+0	20:58:59.711	RSI XAUUSD,M1: initialized
+0	20:58:59.711	CCI XAUUSD,M1: initialized
+0	20:59:51.486	ZigZag XAUUSD,M1: uninit reason 3
+0	20:59:51.486	Superrow XAUUSD,M1: uninit reason 3
+0	20:59:51.487	RSI XAUUSD,M1: uninit reason 3
+0	20:59:51.487	CCI XAUUSD,M1: uninit reason 3
+0	20:59:51.491	ZigZag XAUUSD,H1: initialized
+0	20:59:51.491	Superrow XAUUSD,H1: initialized
+0	20:59:51.492	RSI XAUUSD,H1: initialized
+0	20:59:51.492	CCI XAUUSD,H1: initialized
+0	21:24:45.193	ZigZag XAUUSD,H1: uninit reason 3
+0	21:24:45.193	Superrow XAUUSD,H1: uninit reason 3
+0	21:24:45.193	RSI XAUUSD,H1: uninit reason 3
+0	21:24:45.193	CCI XAUUSD,H1: uninit reason 3
+0	21:24:45.197	ZigZag XAUUSD,M1: initialized
+0	21:24:45.197	Superrow XAUUSD,M1: initialized
+0	21:24:45.197	RSI XAUUSD,M1: initialized
+0	21:24:45.198	CCI XAUUSD,M1: initialized
+0	21:30:55.320	ZigZag XAUUSD,M1: uninit reason 3
+0	21:30:55.320	Superrow XAUUSD,M1: uninit reason 3
+0	21:30:55.320	RSI XAUUSD,M1: uninit reason 3
+0	21:30:55.320	CCI XAUUSD,M1: uninit reason 3
+0	21:30:55.323	ZigZag XAUUSD,H1: initialized
+0	21:30:55.324	Superrow XAUUSD,H1: initialized
+0	21:30:55.324	RSI XAUUSD,H1: initialized
+0	21:30:55.325	CCI XAUUSD,H1: initialized
+0	21:30:58.373	ZigZag XAUUSD,H1: uninit reason 3
+0	21:30:58.373	Superrow XAUUSD,H1: uninit reason 3
+0	21:30:58.374	RSI XAUUSD,H1: uninit reason 3
+0	21:30:58.374	CCI XAUUSD,H1: uninit reason 3
+0	21:30:58.374	ZigZag XAUUSD,H4: initialized
+0	21:30:58.375	Superrow XAUUSD,H4: initialized
+0	21:30:58.375	RSI XAUUSD,H4: initialized
+0	21:30:58.375	CCI XAUUSD,H4: initialized
+0	21:30:58.497	Superrow XAUUSD,H4: Alert: XAUUSD 240   SELL
+0	21:31:23.801	ZigZag XAUUSD,H4: uninit reason 3
+0	21:31:23.801	Superrow XAUUSD,H4: uninit reason 3
+0	21:31:23.802	RSI XAUUSD,H4: uninit reason 3
+0	21:31:23.802	CCI XAUUSD,H4: uninit reason 3
+0	21:31:23.805	ZigZag XAUUSD,H1: initialized
+0	21:31:23.806	Superrow XAUUSD,H1: initialized
+0	21:31:23.806	RSI XAUUSD,H1: initialized
+0	21:31:23.806	CCI XAUUSD,H1: initialized
+0	21:40:44.515	Superrow XAUUSD,H1: uninit reason 2
+0	21:40:44.517	Custom indicator Superrow XAUUSD,H1: removed
+0	21:40:44.527	Custom indicator Superrow XAUUSD,H1: loaded successfully
+0	21:40:44.541	Superrow XAUUSD,H1: initialized
+0	21:40:44.624	Superrow GBPUSD,H1: uninit reason 2
+0	21:40:44.626	Custom indicator Superrow GBPUSD,H1: removed
+0	21:40:44.636	Custom indicator Superrow GBPUSD,H1: loaded successfully
+0	21:40:44.651	Superrow GBPUSD,H1: initialized
+0	21:40:44.729	Superrow XAUUSD,H4: uninit reason 2
+0	21:40:44.731	Custom indicator Superrow XAUUSD,H4: removed
+0	21:40:44.740	Custom indicator Superrow XAUUSD,H4: loaded successfully
+0	21:40:44.754	Superrow XAUUSD,H4: initialized
+0	21:40:44.827	Superrow XAUUSD,H4: Alert: XAUUSD 240   SELL
+0	21:42:05.514	Superrow XAUUSD,H4: uninit reason 4
+0	21:42:05.514	Bands XAUUSD,H4: uninit reason 4
+0	21:42:05.519	Custom indicator Superrow XAUUSD,H4: removed
+0	21:42:05.520	Custom indicator Bands XAUUSD,H4: removed
+0	21:42:18.900	Superrow XAUUSD,H1: uninit reason 2
+0	21:42:18.902	Custom indicator Superrow XAUUSD,H1: removed
+0	21:42:18.911	Custom indicator Superrow XAUUSD,H1: loaded successfully
+0	21:42:18.924	Superrow XAUUSD,H1: initialized
+0	21:42:19.006	Superrow GBPUSD,H1: uninit reason 2
+0	21:42:19.008	Custom indicator Superrow GBPUSD,H1: removed
+0	21:42:19.017	Custom indicator Superrow GBPUSD,H1: loaded successfully
+0	21:42:19.031	Superrow GBPUSD,H1: initialized

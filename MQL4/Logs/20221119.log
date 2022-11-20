@@ -1,0 +1,42 @@
+0	00:00:00.089	Superrow GBPUSD,H1: Alert: GBPUSD 60   SELL
+0	00:02:14.022	RSI XAUUSD,H1: uninit reason 1
+0	00:02:14.023	Custom indicator RSI XAUUSD,H1: removed
+0	00:02:25.900	Custom indicator Superrow XAUUSD,H1: loaded successfully
+0	00:02:27.238	Superrow XAUUSD,H1: initialized
+0	00:02:32.032	Custom indicator Superrow XAUUSD,H1: loaded successfully
+0	00:02:33.292	Superrow XAUUSD,H1: initialized
+0	00:02:36.838	CCI XAUUSD,H1: uninit reason 1
+0	00:02:36.840	Custom indicator CCI XAUUSD,H1: removed
+0	00:02:51.284	Superrow XAUUSD,H1: uninit reason 1
+0	00:02:51.287	Custom indicator Superrow XAUUSD,H1: removed
+0	00:02:52.763	Superrow XAUUSD,H1: uninit reason 1
+0	00:02:52.765	Custom indicator Superrow XAUUSD,H1: removed
+0	00:02:55.410	Superrow XAUUSD,H1: uninit reason 1
+0	00:02:55.412	Custom indicator Superrow XAUUSD,H1: removed
+0	00:02:58.880	ZigZag XAUUSD,H1: uninit reason 1
+0	00:02:58.882	Custom indicator ZigZag XAUUSD,H1: removed
+0	00:03:02.765	Custom indicator Superrow XAUUSD,H1: loaded successfully
+0	00:03:03.837	Superrow XAUUSD,H1: initialized
+0	00:08:34.958	Custom indicator Superrow XAUUSD,H1: loaded successfully
+0	00:08:38.105	Custom indicator Superrow XAUUSD,H1: removed
+0	00:08:41.303	Superrow XAUUSD,H1: uninit reason 1
+0	00:08:41.305	Custom indicator Superrow XAUUSD,H1: removed
+0	00:08:44.568	Custom indicator Superrow XAUUSD,H1: loaded successfully
+0	00:08:45.682	Superrow XAUUSD,H1: initialized
+0	22:01:39.156	Custom indicator Superrow XAUUSD,H1: loaded successfully
+0	22:01:39.181	Superrow XAUUSD,H1: initialized
+0	22:01:39.314	Custom indicator ZigZag USDCHF,H1: loaded successfully
+0	22:01:39.323	Custom indicator RSI USDCHF,H1: loaded successfully
+0	22:01:39.334	Custom indicator CCI USDCHF,H1: loaded successfully
+0	22:01:39.350	ZigZag USDCHF,H1: initialized
+0	22:01:39.363	RSI USDCHF,H1: initialized
+0	22:01:39.376	CCI USDCHF,H1: initialized
+0	22:01:39.435	Custom indicator Superrow GBPUSD,H1: loaded successfully
+0	22:01:39.454	Superrow GBPUSD,H1: initialized
+0	22:08:16.675	Custom indicator ATR XAUUSD,H1: loaded successfully
+0	22:08:29.198	ATR XAUUSD,H1: initialized
+0	22:49:01.221	Compiling '≤‚ ‘÷–\simple  moving average'
+0	23:08:15.803	ATR XAUUSD,H1: uninit reason 4
+0	23:08:15.806	Custom indicator ATR XAUUSD,H1: removed
+0	23:25:12.909	Superrow XAUUSD,H1: uninit reason 7
+0	23:25:12.913	Custom indicator Superrow XAUUSD,H1: removed

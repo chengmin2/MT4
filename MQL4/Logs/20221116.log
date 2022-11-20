@@ -1,0 +1,176 @@
+0	09:24:04.340	Custom indicator ZigZag EURUSD,H1: loaded successfully
+0	09:24:04.349	Custom indicator RSI EURUSD,H1: loaded successfully
+0	09:24:04.358	Custom indicator CCI EURUSD,H1: loaded successfully
+0	09:24:04.381	ZigZag EURUSD,H1: initialized
+0	09:24:04.394	RSI EURUSD,H1: initialized
+0	09:24:04.407	CCI EURUSD,H1: initialized
+0	09:24:04.482	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	09:24:04.491	Custom indicator RSI GBPUSD,H1: loaded successfully
+0	09:24:04.500	Custom indicator CCI GBPUSD,H1: loaded successfully
+0	09:24:04.518	ZigZag GBPUSD,H1: initialized
+0	09:24:04.530	RSI GBPUSD,H1: initialized
+0	09:24:04.543	CCI GBPUSD,H1: initialized
+0	09:24:04.619	Custom indicator ZigZag GBPCAD,H1: loaded successfully
+0	09:24:04.629	Custom indicator RSI GBPCAD,H1: loaded successfully
+0	09:24:04.638	Custom indicator CCI GBPCAD,H1: loaded successfully
+0	09:24:04.654	ZigZag GBPCAD,H1: initialized
+0	09:24:04.667	RSI GBPCAD,H1: initialized
+0	09:24:04.680	CCI GBPCAD,H1: initialized
+0	09:24:04.715	Custom indicator ZigZag GBPCAD,M15: loaded successfully
+0	09:24:04.724	Custom indicator RSI GBPCAD,M15: loaded successfully
+0	09:24:04.733	Custom indicator CCI GBPCAD,M15: loaded successfully
+0	09:24:04.753	ZigZag GBPCAD,M15: initialized
+0	09:24:04.765	RSI GBPCAD,M15: initialized
+0	09:24:04.778	CCI GBPCAD,M15: initialized
+0	09:24:04.937	Custom indicator ZigZag XAUUSD,H4: loaded successfully
+0	09:24:04.946	Custom indicator RSI XAUUSD,H4: loaded successfully
+0	09:24:04.955	Custom indicator CCI XAUUSD,H4: loaded successfully
+0	09:24:05.166	ZigZag XAUUSD,H4: initialized
+0	09:24:05.179	RSI XAUUSD,H4: initialized
+0	09:24:05.191	CCI XAUUSD,H4: initialized
+0	09:24:05.424	Custom indicator ZigZag XAUUSD,M15: loaded successfully
+0	09:24:05.436	Custom indicator RSI XAUUSD,M15: loaded successfully
+0	09:24:05.446	Custom indicator CCI XAUUSD,M15: loaded successfully
+0	09:24:05.586	ZigZag XAUUSD,M15: initialized
+0	09:24:05.598	RSI XAUUSD,M15: initialized
+0	09:24:05.611	CCI XAUUSD,M15: initialized
+0	09:24:05.730	Custom indicator ZigZag GBPCAD,H1: loaded successfully
+0	09:24:05.739	Custom indicator RSI GBPCAD,H1: loaded successfully
+0	09:24:05.748	Custom indicator CCI GBPCAD,H1: loaded successfully
+0	09:24:05.761	ZigZag GBPCAD,H1: initialized
+0	09:24:05.773	RSI GBPCAD,H1: initialized
+0	09:24:05.786	CCI GBPCAD,H1: initialized
+0	09:26:31.470	ZigZag GBPCAD,H1: uninit reason 3
+0	09:26:31.470	RSI GBPCAD,H1: uninit reason 3
+0	09:26:31.470	CCI GBPCAD,H1: uninit reason 3
+0	09:26:31.473	ZigZag GBPCAD,H4: initialized
+0	09:26:31.473	RSI GBPCAD,H4: initialized
+0	09:26:31.473	CCI GBPCAD,H4: initialized
+0	12:34:01.816	ZigZag GBPCAD,H4: uninit reason 3
+0	12:34:01.817	RSI GBPCAD,H4: uninit reason 3
+0	12:34:01.817	CCI GBPCAD,H4: uninit reason 3
+0	12:34:01.818	ZigZag GBPCAD,M15: initialized
+0	12:34:01.818	RSI GBPCAD,M15: initialized
+0	12:34:01.819	CCI GBPCAD,M15: initialized
+0	12:34:33.585	RSI GBPCAD,M15: uninit reason 5
+0	12:34:33.599	RSI GBPCAD,M15: initialized
+0	18:08:54.005	Custom indicator ZigZag EURUSD,H1: loaded successfully
+0	18:08:54.014	Custom indicator RSI EURUSD,H1: loaded successfully
+0	18:08:54.023	Custom indicator CCI EURUSD,H1: loaded successfully
+0	18:08:54.048	ZigZag EURUSD,H1: initialized
+0	18:08:54.060	RSI EURUSD,H1: initialized
+0	18:08:54.073	CCI EURUSD,H1: initialized
+0	18:08:54.144	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	18:08:54.153	Custom indicator RSI GBPUSD,H1: loaded successfully
+0	18:08:54.163	Custom indicator CCI GBPUSD,H1: loaded successfully
+0	18:08:54.185	ZigZag GBPUSD,H1: initialized
+0	18:08:54.198	RSI GBPUSD,H1: initialized
+0	18:08:54.211	CCI GBPUSD,H1: initialized
+0	18:08:54.285	Custom indicator ZigZag GBPCAD,H1: loaded successfully
+0	18:08:54.295	Custom indicator RSI GBPCAD,H1: loaded successfully
+0	18:08:54.306	Custom indicator CCI GBPCAD,H1: loaded successfully
+0	18:08:54.322	ZigZag GBPCAD,H1: initialized
+0	18:08:54.334	RSI GBPCAD,H1: initialized
+0	18:08:54.347	CCI GBPCAD,H1: initialized
+0	18:08:54.380	Custom indicator ZigZag GBPCAD,M15: loaded successfully
+0	18:08:54.389	Custom indicator RSI GBPCAD,M15: loaded successfully
+0	18:08:54.398	Custom indicator CCI GBPCAD,M15: loaded successfully
+0	18:08:54.418	ZigZag GBPCAD,M15: initialized
+0	18:08:54.431	RSI GBPCAD,M15: initialized
+0	18:08:54.444	CCI GBPCAD,M15: initialized
+0	18:08:54.528	Custom indicator ZigZag XAUUSD,H4: loaded successfully
+0	18:08:54.537	Custom indicator RSI XAUUSD,H4: loaded successfully
+0	18:08:54.546	Custom indicator CCI XAUUSD,H4: loaded successfully
+0	18:08:54.564	ZigZag XAUUSD,H4: initialized
+0	18:08:54.576	RSI XAUUSD,H4: initialized
+0	18:08:54.590	CCI XAUUSD,H4: initialized
+0	18:08:54.643	Custom indicator ZigZag XAUUSD,M15: loaded successfully
+0	18:08:54.651	Custom indicator RSI XAUUSD,M15: loaded successfully
+0	18:08:54.661	Custom indicator CCI XAUUSD,M15: loaded successfully
+0	18:08:54.687	ZigZag XAUUSD,M15: initialized
+0	18:08:54.701	RSI XAUUSD,M15: initialized
+0	18:08:54.714	CCI XAUUSD,M15: initialized
+0	18:08:54.794	Custom indicator ZigZag GBPCAD,H1: loaded successfully
+0	18:08:54.803	Custom indicator RSI GBPCAD,H1: loaded successfully
+0	18:08:54.813	Custom indicator CCI GBPCAD,H1: loaded successfully
+0	18:08:54.826	ZigZag GBPCAD,H1: initialized
+0	18:08:54.839	RSI GBPCAD,H1: initialized
+0	18:08:54.853	CCI GBPCAD,H1: initialized
+0	19:25:31.848	ZigZag GBPCAD,H1: uninit reason 3
+0	19:25:31.848	RSI GBPCAD,H1: uninit reason 3
+0	19:25:31.848	CCI GBPCAD,H1: uninit reason 3
+0	19:25:31.848	ZigZag GBPCAD,M15: initialized
+0	19:25:31.848	RSI GBPCAD,M15: initialized
+0	19:25:31.848	CCI GBPCAD,M15: initialized
+0	19:26:12.310	RSI GBPCAD,M15: uninit reason 5
+0	19:26:12.338	RSI GBPCAD,M15: initialized
+0	19:28:27.205	ZigZag EURUSD,H1: uninit reason 3
+0	19:28:27.205	RSI EURUSD,H1: uninit reason 3
+0	19:28:27.205	CCI EURUSD,H1: uninit reason 3
+0	19:28:27.216	ZigZag EURUSD,M15: initialized
+0	19:28:27.216	RSI EURUSD,M15: initialized
+0	19:28:27.217	CCI EURUSD,M15: initialized
+0	19:29:11.468	RSI EURUSD,M15: uninit reason 5
+0	19:29:11.485	RSI EURUSD,M15: initialized
+0	19:33:47.575	ZigZag EURUSD,M15: uninit reason 3
+0	19:33:47.575	RSI EURUSD,M15: uninit reason 3
+0	19:33:47.575	CCI EURUSD,M15: uninit reason 3
+0	19:33:47.580	ZigZag EURUSD,H4: initialized
+0	19:33:47.581	RSI EURUSD,H4: initialized
+0	19:33:47.581	CCI EURUSD,H4: initialized
+0	19:33:52.446	ZigZag EURUSD,H4: uninit reason 3
+0	19:33:52.446	RSI EURUSD,H4: uninit reason 3
+0	19:33:52.446	CCI EURUSD,H4: uninit reason 3
+0	19:33:52.446	ZigZag EURUSD,M15: initialized
+0	19:33:52.447	RSI EURUSD,M15: initialized
+0	19:33:52.447	CCI EURUSD,M15: initialized
+0	19:40:52.265	CCI EURUSD,M15: uninit reason 1
+0	19:40:52.267	Custom indicator CCI EURUSD,M15: removed
+0	19:46:30.288	ZigZag GBPUSD,H1: uninit reason 3
+0	19:46:30.288	RSI GBPUSD,H1: uninit reason 3
+0	19:46:30.288	CCI GBPUSD,H1: uninit reason 3
+0	19:46:30.299	ZigZag GBPUSD,M15: initialized
+0	19:46:30.300	RSI GBPUSD,M15: initialized
+0	19:46:30.300	CCI GBPUSD,M15: initialized
+0	19:46:35.235	CCI GBPUSD,M15: uninit reason 1
+0	19:46:35.237	Custom indicator CCI GBPUSD,M15: removed
+0	19:46:43.658	RSI GBPUSD,M15: uninit reason 5
+0	19:46:43.671	RSI GBPUSD,M15: initialized
+0	21:13:16.423	Custom indicator ZigZag XAUUSD,H1: loaded successfully
+0	21:13:16.431	Custom indicator RSI XAUUSD,H1: loaded successfully
+0	21:13:16.441	Custom indicator CCI XAUUSD,H1: loaded successfully
+0	21:13:16.454	ZigZag XAUUSD,H1: initialized
+0	21:13:16.466	RSI XAUUSD,H1: initialized
+0	21:13:16.479	CCI XAUUSD,H1: initialized
+0	21:14:21.245	ZigZag XAUUSD,H1: uninit reason 3
+0	21:14:21.245	RSI XAUUSD,H1: uninit reason 3
+0	21:14:21.245	CCI XAUUSD,H1: uninit reason 3
+0	21:14:21.245	ZigZag XAUUSD,H4: initialized
+0	21:14:21.245	RSI XAUUSD,H4: initialized
+0	21:14:21.246	CCI XAUUSD,H4: initialized
+0	21:40:19.406	ZigZag XAUUSD,M15: uninit reason 3
+0	21:40:19.406	RSI XAUUSD,M15: uninit reason 3
+0	21:40:19.406	CCI XAUUSD,M15: uninit reason 3
+0	21:40:19.416	ZigZag XAUUSD,M5: initialized
+0	21:40:19.416	RSI XAUUSD,M5: initialized
+0	21:40:19.417	CCI XAUUSD,M5: initialized
+0	21:40:24.948	ZigZag XAUUSD,M5: uninit reason 3
+0	21:40:24.948	RSI XAUUSD,M5: uninit reason 3
+0	21:40:24.948	CCI XAUUSD,M5: uninit reason 3
+0	21:40:24.959	ZigZag XAUUSD,M1: initialized
+0	21:40:24.960	RSI XAUUSD,M1: initialized
+0	21:40:24.960	CCI XAUUSD,M1: initialized
+0	21:40:57.365	ZigZag XAUUSD,M1: uninit reason 3
+0	21:40:57.365	RSI XAUUSD,M1: uninit reason 3
+0	21:40:57.365	CCI XAUUSD,M1: uninit reason 3
+0	21:40:57.366	ZigZag XAUUSD,H1: initialized
+0	21:40:57.367	RSI XAUUSD,H1: initialized
+0	21:40:57.367	CCI XAUUSD,H1: initialized
+0	21:56:11.299	ZigZag XAUUSD,H1: uninit reason 3
+0	21:56:11.299	RSI XAUUSD,H1: uninit reason 3
+0	21:56:11.299	CCI XAUUSD,H1: uninit reason 3
+0	21:56:11.302	ZigZag XAUUSD,M15: initialized
+0	21:56:11.302	RSI XAUUSD,M15: initialized
+0	21:56:11.302	CCI XAUUSD,M15: initialized
+0	21:57:29.776	RSI XAUUSD,M15: uninit reason 5
+0	21:57:29.793	RSI XAUUSD,M15: initialized

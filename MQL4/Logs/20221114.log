@@ -1,0 +1,350 @@
+0	09:36:18.559	Custom indicator ZigZag EURUSD,H1: loaded successfully
+0	09:36:18.569	Custom indicator RSI EURUSD,H1: loaded successfully
+0	09:36:18.579	Custom indicator CCI EURUSD,H1: loaded successfully
+0	09:36:18.603	ZigZag EURUSD,H1: initialized
+0	09:36:18.616	RSI EURUSD,H1: initialized
+0	09:36:18.629	CCI EURUSD,H1: initialized
+0	09:36:18.710	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	09:36:18.720	Custom indicator RSI GBPUSD,H1: loaded successfully
+0	09:36:18.731	Custom indicator CCI GBPUSD,H1: loaded successfully
+0	09:36:18.754	ZigZag GBPUSD,H1: initialized
+0	09:36:18.767	RSI GBPUSD,H1: initialized
+0	09:36:18.781	CCI GBPUSD,H1: initialized
+0	09:41:34.901	Custom indicator ZigZag GBPCAD,H1: loaded successfully
+0	09:41:34.911	Custom indicator RSI GBPCAD,H1: loaded successfully
+0	09:41:34.921	Custom indicator CCI GBPCAD,H1: loaded successfully
+0	09:41:34.935	ZigZag GBPCAD,H1: initialized
+0	09:41:34.948	RSI GBPCAD,H1: initialized
+0	09:41:34.961	CCI GBPCAD,H1: initialized
+0	09:42:03.090	ZigZag GBPCAD,H1: uninit reason 3
+0	09:42:03.090	RSI GBPCAD,H1: uninit reason 3
+0	09:42:03.090	CCI GBPCAD,H1: uninit reason 3
+0	09:42:03.091	ZigZag GBPCAD,H4: initialized
+0	09:42:03.091	RSI GBPCAD,H4: initialized
+0	09:42:03.091	CCI GBPCAD,H4: initialized
+0	09:42:08.239	ZigZag GBPCAD,H4: uninit reason 3
+0	09:42:08.239	RSI GBPCAD,H4: uninit reason 3
+0	09:42:08.239	CCI GBPCAD,H4: uninit reason 3
+0	09:42:08.241	ZigZag GBPCAD,Daily: initialized
+0	09:42:08.241	RSI GBPCAD,Daily: initialized
+0	09:42:08.241	CCI GBPCAD,Daily: initialized
+0	09:42:23.983	ZigZag GBPCAD,Daily: uninit reason 3
+0	09:42:23.983	RSI GBPCAD,Daily: uninit reason 3
+0	09:42:23.983	CCI GBPCAD,Daily: uninit reason 3
+0	09:42:23.983	ZigZag GBPCAD,H1: initialized
+0	09:42:23.983	RSI GBPCAD,H1: initialized
+0	09:42:23.984	CCI GBPCAD,H1: initialized
+0	09:57:48.572	ZigZag GBPCAD,H1: uninit reason 4
+0	09:57:48.572	RSI GBPCAD,H1: uninit reason 4
+0	09:57:48.572	CCI GBPCAD,H1: uninit reason 4
+0	09:57:48.574	Custom indicator ZigZag GBPCAD,H1: removed
+0	09:57:48.575	Custom indicator RSI GBPCAD,H1: removed
+0	09:57:48.577	Custom indicator CCI GBPCAD,H1: removed
+0	10:22:18.558	Custom indicator ZigZag CHFJPY,H1: loaded successfully
+0	10:22:18.571	Custom indicator RSI CHFJPY,H1: loaded successfully
+0	10:22:18.585	Custom indicator CCI CHFJPY,H1: loaded successfully
+0	10:22:18.600	ZigZag CHFJPY,H1: initialized
+0	10:22:18.613	RSI CHFJPY,H1: initialized
+0	10:22:18.626	CCI CHFJPY,H1: initialized
+0	10:35:50.764	ZigZag CHFJPY,H1: uninit reason 4
+0	10:35:50.764	RSI CHFJPY,H1: uninit reason 4
+0	10:35:50.764	CCI CHFJPY,H1: uninit reason 4
+0	10:35:50.767	Custom indicator ZigZag CHFJPY,H1: removed
+0	10:35:50.768	Custom indicator RSI CHFJPY,H1: removed
+0	10:35:50.770	Custom indicator CCI CHFJPY,H1: removed
+0	11:01:16.146	Custom indicator ZigZag XAUUSD,H1: loaded successfully
+0	11:01:16.155	Custom indicator RSI XAUUSD,H1: loaded successfully
+0	11:01:16.165	Custom indicator CCI XAUUSD,H1: loaded successfully
+0	11:01:16.178	ZigZag XAUUSD,H1: initialized
+0	11:01:16.191	RSI XAUUSD,H1: initialized
+0	11:01:16.203	CCI XAUUSD,H1: initialized
+0	11:01:24.757	ZigZag XAUUSD,H1: uninit reason 3
+0	11:01:24.757	RSI XAUUSD,H1: uninit reason 3
+0	11:01:24.757	CCI XAUUSD,H1: uninit reason 3
+0	11:01:24.762	ZigZag XAUUSD,H4: initialized
+0	11:01:24.762	RSI XAUUSD,H4: initialized
+0	11:01:24.762	CCI XAUUSD,H4: initialized
+0	11:01:32.644	ZigZag XAUUSD,H4: uninit reason 4
+0	11:01:32.644	RSI XAUUSD,H4: uninit reason 4
+0	11:01:32.644	CCI XAUUSD,H4: uninit reason 4
+0	11:01:32.646	Custom indicator ZigZag XAUUSD,H4: removed
+0	11:01:32.648	Custom indicator RSI XAUUSD,H4: removed
+0	11:01:32.649	Custom indicator CCI XAUUSD,H4: removed
+0	11:43:16.354	Custom indicator ZigZag GBPCAD,H1: loaded successfully
+0	11:43:16.369	Custom indicator RSI GBPCAD,H1: loaded successfully
+0	11:43:16.386	Custom indicator CCI GBPCAD,H1: loaded successfully
+0	11:43:16.406	ZigZag GBPCAD,H1: initialized
+0	11:43:16.420	RSI GBPCAD,H1: initialized
+0	11:43:16.435	CCI GBPCAD,H1: initialized
+0	11:43:57.952	Custom indicator ZigZag GBPAUD,M1: loaded successfully
+0	11:43:57.962	Custom indicator RSI GBPAUD,M1: loaded successfully
+0	11:43:57.973	Custom indicator CCI GBPAUD,M1: loaded successfully
+0	11:43:57.987	ZigZag GBPAUD,M1: initialized
+0	11:43:58.001	RSI GBPAUD,M1: initialized
+0	11:43:58.018	CCI GBPAUD,M1: initialized
+0	12:06:26.566	ZigZag GBPAUD,M1: uninit reason 3
+0	12:06:26.566	RSI GBPAUD,M1: uninit reason 3
+0	12:06:26.566	CCI GBPAUD,M1: uninit reason 3
+0	12:06:26.566	ZigZag GBPAUD,H1: initialized
+0	12:06:26.567	RSI GBPAUD,H1: initialized
+0	12:06:26.567	CCI GBPAUD,H1: initialized
+0	12:06:30.506	ZigZag GBPAUD,H1: uninit reason 3
+0	12:06:30.506	RSI GBPAUD,H1: uninit reason 3
+0	12:06:30.506	CCI GBPAUD,H1: uninit reason 3
+0	12:06:30.507	ZigZag GBPAUD,M1: initialized
+0	12:06:30.507	RSI GBPAUD,M1: initialized
+0	12:06:30.507	CCI GBPAUD,M1: initialized
+0	12:08:15.876	Custom indicator ZigZag GBPCAD,H1: loaded successfully
+0	12:08:15.887	Custom indicator RSI GBPCAD,H1: loaded successfully
+0	12:08:15.900	Custom indicator CCI GBPCAD,H1: loaded successfully
+0	12:08:15.917	ZigZag GBPCAD,H1: initialized
+0	12:08:15.933	RSI GBPCAD,H1: initialized
+0	12:08:15.947	CCI GBPCAD,H1: initialized
+0	12:08:20.647	ZigZag GBPCAD,H1: uninit reason 3
+0	12:08:20.647	RSI GBPCAD,H1: uninit reason 3
+0	12:08:20.647	CCI GBPCAD,H1: uninit reason 3
+0	12:08:20.659	ZigZag GBPCAD,M1: initialized
+0	12:08:20.659	RSI GBPCAD,M1: initialized
+0	12:08:20.659	CCI GBPCAD,M1: initialized
+0	14:13:10.662	ZigZag GBPCAD,M1: uninit reason 3
+0	14:13:10.662	RSI GBPCAD,M1: uninit reason 3
+0	14:13:10.662	CCI GBPCAD,M1: uninit reason 3
+0	14:13:10.663	ZigZag GBPCAD,H1: initialized
+0	14:13:10.663	RSI GBPCAD,H1: initialized
+0	14:13:10.664	CCI GBPCAD,H1: initialized
+0	14:26:47.124	Compiling '指标\Matrix_rsi_cci_H_AUDCAD'
+0	14:29:02.422	ZigZag GBPCAD,H1: uninit reason 4
+0	14:29:02.422	RSI GBPCAD,H1: uninit reason 4
+0	14:29:02.422	CCI GBPCAD,H1: uninit reason 4
+0	14:29:02.424	Custom indicator ZigZag GBPCAD,H1: removed
+0	14:29:02.426	Custom indicator RSI GBPCAD,H1: removed
+0	14:29:02.428	Custom indicator CCI GBPCAD,H1: removed
+0	14:41:34.146	ZigZag GBPAUD,M1: uninit reason 4
+0	14:41:34.146	RSI GBPAUD,M1: uninit reason 4
+0	14:41:34.146	CCI GBPAUD,M1: uninit reason 4
+0	14:41:34.148	Custom indicator ZigZag GBPAUD,M1: removed
+0	14:41:34.150	Custom indicator RSI GBPAUD,M1: removed
+0	14:41:34.151	Custom indicator CCI GBPAUD,M1: removed
+0	14:41:35.198	ZigZag GBPCAD,H1: uninit reason 4
+0	14:41:35.198	RSI GBPCAD,H1: uninit reason 4
+0	14:41:35.198	CCI GBPCAD,H1: uninit reason 4
+0	14:41:35.200	Custom indicator ZigZag GBPCAD,H1: removed
+0	14:41:35.202	Custom indicator RSI GBPCAD,H1: removed
+0	14:41:35.203	Custom indicator CCI GBPCAD,H1: removed
+0	16:41:47.449	Custom indicator ZigZag GBPCAD,H1: loaded successfully
+0	16:41:47.459	Custom indicator RSI GBPCAD,H1: loaded successfully
+0	16:41:47.470	Custom indicator CCI GBPCAD,H1: loaded successfully
+0	16:41:47.484	ZigZag GBPCAD,H1: initialized
+0	16:41:47.498	RSI GBPCAD,H1: initialized
+0	16:41:47.512	CCI GBPCAD,H1: initialized
+0	16:42:04.318	ZigZag GBPCAD,H1: uninit reason 3
+0	16:42:04.318	RSI GBPCAD,H1: uninit reason 3
+0	16:42:04.318	CCI GBPCAD,H1: uninit reason 3
+0	16:42:04.319	ZigZag GBPCAD,H4: initialized
+0	16:42:04.319	RSI GBPCAD,H4: initialized
+0	16:42:04.319	CCI GBPCAD,H4: initialized
+0	16:43:28.071	ZigZag GBPCAD,H4: uninit reason 3
+0	16:43:28.071	RSI GBPCAD,H4: uninit reason 3
+0	16:43:28.071	CCI GBPCAD,H4: uninit reason 3
+0	16:43:28.073	ZigZag GBPCAD,Daily: initialized
+0	16:43:28.073	RSI GBPCAD,Daily: initialized
+0	16:43:28.073	CCI GBPCAD,Daily: initialized
+0	16:43:30.821	ZigZag GBPCAD,Daily: uninit reason 3
+0	16:43:30.821	RSI GBPCAD,Daily: uninit reason 3
+0	16:43:30.821	CCI GBPCAD,Daily: uninit reason 3
+0	16:43:30.823	ZigZag GBPCAD,Weekly: initialized
+0	16:43:30.823	RSI GBPCAD,Weekly: initialized
+0	16:43:30.823	CCI GBPCAD,Weekly: initialized
+0	16:43:41.298	ZigZag GBPCAD,Weekly: uninit reason 3
+0	16:43:41.298	RSI GBPCAD,Weekly: uninit reason 3
+0	16:43:41.298	CCI GBPCAD,Weekly: uninit reason 3
+0	16:43:41.298	ZigZag GBPCAD,Daily: initialized
+0	16:43:41.298	RSI GBPCAD,Daily: initialized
+0	16:43:41.298	CCI GBPCAD,Daily: initialized
+0	17:10:12.864	ZigZag GBPCAD,Daily: uninit reason 3
+0	17:10:12.864	RSI GBPCAD,Daily: uninit reason 3
+0	17:10:12.864	CCI GBPCAD,Daily: uninit reason 3
+0	17:10:12.865	ZigZag GBPCAD,H1: initialized
+0	17:10:12.865	RSI GBPCAD,H1: initialized
+0	17:10:12.865	CCI GBPCAD,H1: initialized
+0	17:19:18.585	ZigZag GBPCAD,H1: uninit reason 3
+0	17:19:18.586	RSI GBPCAD,H1: uninit reason 3
+0	17:19:18.586	CCI GBPCAD,H1: uninit reason 3
+0	17:19:18.586	ZigZag GBPCAD,H4: initialized
+0	17:19:18.586	RSI GBPCAD,H4: initialized
+0	17:19:18.586	CCI GBPCAD,H4: initialized
+0	17:20:52.781	ZigZag GBPCAD,H4: uninit reason 3
+0	17:20:52.781	RSI GBPCAD,H4: uninit reason 3
+0	17:20:52.781	CCI GBPCAD,H4: uninit reason 3
+0	17:20:52.782	ZigZag GBPCAD,H1: initialized
+0	17:20:52.782	RSI GBPCAD,H1: initialized
+0	17:20:52.782	CCI GBPCAD,H1: initialized
+0	17:23:26.201	ZigZag GBPCAD,H1: uninit reason 3
+0	17:23:26.201	RSI GBPCAD,H1: uninit reason 3
+0	17:23:26.201	CCI GBPCAD,H1: uninit reason 3
+0	17:23:26.209	ZigZag GBPCAD,M15: initialized
+0	17:23:26.209	RSI GBPCAD,M15: initialized
+0	17:23:26.209	CCI GBPCAD,M15: initialized
+0	17:29:20.665	ZigZag GBPCAD,M15: uninit reason 3
+0	17:29:20.665	RSI GBPCAD,M15: uninit reason 3
+0	17:29:20.665	CCI GBPCAD,M15: uninit reason 3
+0	17:29:20.665	ZigZag GBPCAD,H1: initialized
+0	17:29:20.665	RSI GBPCAD,H1: initialized
+0	17:29:20.665	CCI GBPCAD,H1: initialized
+0	17:29:44.250	Custom indicator ZigZag GBPAUD,H1: loaded successfully
+0	17:29:44.259	Custom indicator RSI GBPAUD,H1: loaded successfully
+0	17:29:44.269	Custom indicator CCI GBPAUD,H1: loaded successfully
+0	17:29:44.283	ZigZag GBPAUD,H1: initialized
+0	17:29:44.297	RSI GBPAUD,H1: initialized
+0	17:29:44.312	CCI GBPAUD,H1: initialized
+0	17:33:27.895	ZigZag GBPAUD,H1: uninit reason 4
+0	17:33:27.895	RSI GBPAUD,H1: uninit reason 4
+0	17:33:27.895	CCI GBPAUD,H1: uninit reason 4
+0	17:33:27.897	Custom indicator ZigZag GBPAUD,H1: removed
+0	17:33:27.899	Custom indicator RSI GBPAUD,H1: removed
+0	17:33:27.900	Custom indicator CCI GBPAUD,H1: removed
+0	19:07:16.731	Compiling 'plan\ns_jc_pl'
+0	19:15:03.029	Compiling '指标\JPY\Matrix_rsi_cci_H_HT+QSTP'
+0	19:15:24.788	Script highPrice EURUSD,H1: loaded successfully
+0	19:15:24.800	highPrice EURUSD,H1: initialized
+0	19:15:24.801	highPrice EURUSD,H1: Alert: 1.035
+0	19:15:24.801	highPrice EURUSD,H1: uninit reason 0
+0	19:15:24.802	Script highPrice EURUSD,H1: removed
+0	19:31:41.880	ZigZag GBPCAD,H1: uninit reason 3
+0	19:31:41.880	RSI GBPCAD,H1: uninit reason 3
+0	19:31:41.880	CCI GBPCAD,H1: uninit reason 3
+0	19:31:41.881	ZigZag GBPCAD,H4: initialized
+0	19:31:41.882	RSI GBPCAD,H4: initialized
+0	19:31:41.883	CCI GBPCAD,H4: initialized
+0	20:15:15.223	Script highPrice GBPUSD,H1: loaded successfully
+0	20:15:15.236	highPrice GBPUSD,H1: initialized
+0	20:15:15.237	highPrice GBPUSD,H1: Alert: 1.17898
+0	20:15:15.237	highPrice GBPUSD,H1: uninit reason 0
+0	20:15:15.239	Script highPrice GBPUSD,H1: removed
+0	20:15:28.905	Script highPrice GBPUSD,H1: loaded successfully
+0	20:15:28.918	highPrice GBPUSD,H1: initialized
+0	20:15:28.918	highPrice GBPUSD,H1: Alert: 1.17898
+0	20:15:28.918	highPrice GBPUSD,H1: uninit reason 0
+0	20:15:28.920	Script highPrice GBPUSD,H1: removed
+0	20:16:21.412	Script highPrice GBPUSD,H1: loaded successfully
+0	20:16:21.424	highPrice GBPUSD,H1: initialized
+0	20:16:21.425	highPrice GBPUSD,H1: Alert: 1.17898
+0	20:16:21.425	highPrice GBPUSD,H1: uninit reason 0
+0	20:16:21.426	Script highPrice GBPUSD,H1: removed
+0	20:16:38.850	ZigZag GBPUSD,H1: uninit reason 3
+0	20:16:38.850	RSI GBPUSD,H1: uninit reason 3
+0	20:16:38.850	CCI GBPUSD,H1: uninit reason 3
+0	20:16:38.853	ZigZag GBPUSD,Daily: initialized
+0	20:16:38.855	RSI GBPUSD,Daily: initialized
+0	20:16:38.857	CCI GBPUSD,Daily: initialized
+0	20:16:53.324	ZigZag GBPUSD,Daily: uninit reason 3
+0	20:16:53.324	RSI GBPUSD,Daily: uninit reason 3
+0	20:16:53.324	CCI GBPUSD,Daily: uninit reason 3
+0	20:16:53.330	ZigZag GBPUSD,H1: initialized
+0	20:16:53.331	RSI GBPUSD,H1: initialized
+0	20:16:53.331	CCI GBPUSD,H1: initialized
+0	21:15:23.079	Custom indicator ZigZag EURUSD,H1: loaded successfully
+0	21:15:23.088	Custom indicator RSI EURUSD,H1: loaded successfully
+0	21:15:23.097	Custom indicator CCI EURUSD,H1: loaded successfully
+0	21:15:23.121	ZigZag EURUSD,H1: initialized
+0	21:15:23.134	RSI EURUSD,H1: initialized
+0	21:15:23.146	CCI EURUSD,H1: initialized
+0	21:15:23.224	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	21:15:23.233	Custom indicator RSI GBPUSD,H1: loaded successfully
+0	21:15:23.242	Custom indicator CCI GBPUSD,H1: loaded successfully
+0	21:15:23.264	ZigZag GBPUSD,H1: initialized
+0	21:15:23.276	RSI GBPUSD,H1: initialized
+0	21:15:23.289	CCI GBPUSD,H1: initialized
+0	21:15:23.367	Custom indicator ZigZag GBPCAD,H1: loaded successfully
+0	21:15:23.376	Custom indicator RSI GBPCAD,H1: loaded successfully
+0	21:15:23.386	Custom indicator CCI GBPCAD,H1: loaded successfully
+0	21:15:23.451	ZigZag GBPCAD,H1: initialized
+0	21:15:23.463	RSI GBPCAD,H1: initialized
+0	21:15:23.477	CCI GBPCAD,H1: initialized
+0	21:18:20.224	ZigZag GBPCAD,H1: uninit reason 3
+0	21:18:20.224	RSI GBPCAD,H1: uninit reason 3
+0	21:18:20.224	CCI GBPCAD,H1: uninit reason 3
+0	21:18:20.225	ZigZag GBPCAD,H4: initialized
+0	21:18:20.225	RSI GBPCAD,H4: initialized
+0	21:18:20.226	CCI GBPCAD,H4: initialized
+0	21:18:21.463	ZigZag GBPCAD,H4: uninit reason 3
+0	21:18:21.463	RSI GBPCAD,H4: uninit reason 3
+0	21:18:21.463	CCI GBPCAD,H4: uninit reason 3
+0	21:18:21.465	ZigZag GBPCAD,Daily: initialized
+0	21:18:21.465	RSI GBPCAD,Daily: initialized
+0	21:18:21.465	CCI GBPCAD,Daily: initialized
+0	21:18:45.436	ZigZag GBPCAD,Daily: uninit reason 3
+0	21:18:45.436	RSI GBPCAD,Daily: uninit reason 3
+0	21:18:45.436	CCI GBPCAD,Daily: uninit reason 3
+0	21:18:45.436	ZigZag GBPCAD,H4: initialized
+0	21:18:45.436	RSI GBPCAD,H4: initialized
+0	21:18:45.436	CCI GBPCAD,H4: initialized
+0	21:19:31.983	ZigZag GBPCAD,H4: uninit reason 3
+0	21:19:31.983	RSI GBPCAD,H4: uninit reason 3
+0	21:19:31.983	CCI GBPCAD,H4: uninit reason 3
+0	21:19:31.984	ZigZag GBPCAD,Daily: initialized
+0	21:19:31.984	RSI GBPCAD,Daily: initialized
+0	21:19:31.984	CCI GBPCAD,Daily: initialized
+0	21:24:30.440	Script highPrice GBPUSD,H1: loaded successfully
+0	21:24:30.451	highPrice GBPUSD,H1: initialized
+0	21:24:30.451	highPrice GBPUSD,H1: Alert: 1.18546
+0	21:24:30.451	highPrice GBPUSD,H1: uninit reason 0
+0	21:24:30.454	Script highPrice GBPUSD,H1: removed
+0	21:26:28.628	Compiling '指标\JPY\Matrix_rsi_cci_H_HT+QSTP'
+0	21:38:43.645	ZigZag GBPCAD,Daily: uninit reason 3
+0	21:38:43.645	RSI GBPCAD,Daily: uninit reason 3
+0	21:38:43.645	CCI GBPCAD,Daily: uninit reason 3
+0	21:38:43.645	ZigZag GBPCAD,H1: initialized
+0	21:38:43.646	RSI GBPCAD,H1: initialized
+0	21:38:43.646	CCI GBPCAD,H1: initialized
+0	21:40:03.128	ZigZag GBPCAD,H1: uninit reason 3
+0	21:40:03.128	RSI GBPCAD,H1: uninit reason 3
+0	21:40:03.128	CCI GBPCAD,H1: uninit reason 3
+0	21:40:03.129	ZigZag GBPCAD,H4: initialized
+0	21:40:03.129	RSI GBPCAD,H4: initialized
+0	21:40:03.129	CCI GBPCAD,H4: initialized
+0	21:40:05.385	ZigZag GBPCAD,H4: uninit reason 3
+0	21:40:05.385	RSI GBPCAD,H4: uninit reason 3
+0	21:40:05.385	CCI GBPCAD,H4: uninit reason 3
+0	21:40:05.385	ZigZag GBPCAD,Daily: initialized
+0	21:40:05.385	RSI GBPCAD,Daily: initialized
+0	21:40:05.385	CCI GBPCAD,Daily: initialized
+0	22:53:44.040	Custom indicator ZigZag GBPCAD,M30: loaded successfully
+0	22:53:44.052	Custom indicator RSI GBPCAD,M30: loaded successfully
+0	22:53:44.062	Custom indicator CCI GBPCAD,M30: loaded successfully
+0	23:11:22.112	Custom indicator ZigZag EURUSD,H1: loaded successfully
+0	23:11:22.129	Custom indicator RSI EURUSD,H1: loaded successfully
+0	23:11:22.146	Custom indicator CCI EURUSD,H1: loaded successfully
+0	23:11:22.165	ZigZag EURUSD,H1: initialized
+0	23:11:22.178	RSI EURUSD,H1: initialized
+0	23:11:22.193	CCI EURUSD,H1: initialized
+0	23:11:34.813	ZigZag EURUSD,H1: uninit reason 3
+0	23:11:34.813	RSI EURUSD,H1: uninit reason 3
+0	23:11:34.813	CCI EURUSD,H1: uninit reason 3
+0	23:11:34.819	ZigZag EURUSD,H4: initialized
+0	23:11:34.820	RSI EURUSD,H4: initialized
+0	23:11:34.820	CCI EURUSD,H4: initialized
+0	23:11:41.160	ZigZag EURUSD,H4: uninit reason 3
+0	23:11:41.160	RSI EURUSD,H4: uninit reason 3
+0	23:11:41.160	CCI EURUSD,H4: uninit reason 3
+0	23:11:41.161	ZigZag EURUSD,H1: initialized
+0	23:11:41.161	RSI EURUSD,H1: initialized
+0	23:11:41.162	CCI EURUSD,H1: initialized
+0	23:17:00.354	Custom indicator ZigZag GBPJPY,H1: loaded successfully
+0	23:17:00.370	Custom indicator RSI GBPJPY,H1: loaded successfully
+0	23:17:00.386	Custom indicator CCI GBPJPY,H1: loaded successfully
+0	23:17:00.401	ZigZag GBPJPY,H1: initialized
+0	23:17:00.414	RSI GBPJPY,H1: initialized
+0	23:17:00.428	CCI GBPJPY,H1: initialized
+0	23:18:43.192	ZigZag GBPJPY,H1: uninit reason 3
+0	23:18:43.192	RSI GBPJPY,H1: uninit reason 3
+0	23:18:43.192	CCI GBPJPY,H1: uninit reason 3
+0	23:18:43.193	ZigZag GBPJPY,H4: initialized
+0	23:18:43.193	RSI GBPJPY,H4: initialized
+0	23:18:43.194	CCI GBPJPY,H4: initialized
+0	23:18:46.903	ZigZag GBPJPY,H4: uninit reason 3
+0	23:18:46.903	RSI GBPJPY,H4: uninit reason 3
+0	23:18:46.903	CCI GBPJPY,H4: uninit reason 3
+0	23:18:46.903	ZigZag GBPJPY,H1: initialized
+0	23:18:46.903	RSI GBPJPY,H1: initialized
+0	23:18:46.903	CCI GBPJPY,H1: initialized
