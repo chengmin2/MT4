@@ -1,0 +1,516 @@
+0	10:11:24.947	ZigZag AUDCAD,Daily: uninit reason 3
+0	10:11:24.949	RSI AUDCAD,Daily: uninit reason 3
+0	10:11:24.949	CCI AUDCAD,Daily: uninit reason 3
+0	10:11:24.950	ZigZag AUDCAD,H4: initialized
+0	10:11:24.950	RSI AUDCAD,H4: initialized
+0	10:11:24.950	CCI AUDCAD,H4: initialized
+0	10:11:28.683	ZigZag AUDCAD,H4: uninit reason 3
+0	10:11:28.683	RSI AUDCAD,H4: uninit reason 3
+0	10:11:28.683	CCI AUDCAD,H4: uninit reason 3
+0	10:11:28.684	ZigZag AUDCAD,H1: initialized
+0	10:11:28.684	RSI AUDCAD,H1: initialized
+0	10:11:28.684	CCI AUDCAD,H1: initialized
+0	10:11:34.347	ZigZag AUDCAD,H1: uninit reason 3
+0	10:11:34.347	RSI AUDCAD,H1: uninit reason 3
+0	10:11:34.347	CCI AUDCAD,H1: uninit reason 3
+0	10:11:34.348	ZigZag AUDCAD,H4: initialized
+0	10:11:34.348	RSI AUDCAD,H4: initialized
+0	10:11:34.348	CCI AUDCAD,H4: initialized
+0	10:11:38.749	ZigZag AUDCAD,H4: uninit reason 3
+0	10:11:38.749	RSI AUDCAD,H4: uninit reason 3
+0	10:11:38.749	CCI AUDCAD,H4: uninit reason 3
+0	10:11:38.749	ZigZag AUDCAD,Daily: initialized
+0	10:11:38.750	RSI AUDCAD,Daily: initialized
+0	10:11:38.750	CCI AUDCAD,Daily: initialized
+0	10:11:50.540	ZigZag AUDCAD,Daily: uninit reason 3
+0	10:11:50.540	RSI AUDCAD,Daily: uninit reason 3
+0	10:11:50.540	CCI AUDCAD,Daily: uninit reason 3
+0	10:11:50.549	ZigZag AUDCAD,M15: initialized
+0	10:11:50.549	RSI AUDCAD,M15: initialized
+0	10:11:50.549	CCI AUDCAD,M15: initialized
+0	10:11:53.765	ZigZag AUDCAD,M15: uninit reason 3
+0	10:11:53.765	RSI AUDCAD,M15: uninit reason 3
+0	10:11:53.765	CCI AUDCAD,M15: uninit reason 3
+0	10:11:53.766	ZigZag AUDCAD,H1: initialized
+0	10:11:53.766	RSI AUDCAD,H1: initialized
+0	10:11:53.766	CCI AUDCAD,H1: initialized
+0	10:13:45.964	ZigZag XAUUSD,Daily: uninit reason 3
+0	10:13:45.964	RSI XAUUSD,Daily: uninit reason 3
+0	10:13:45.964	CCI XAUUSD,Daily: uninit reason 3
+0	10:13:45.965	ZigZag XAUUSD,H4: initialized
+0	10:13:45.967	RSI XAUUSD,H4: initialized
+0	10:13:45.968	CCI XAUUSD,H4: initialized
+0	10:15:23.029	ZigZag AUDCAD,H1: uninit reason 3
+0	10:15:23.029	RSI AUDCAD,H1: uninit reason 3
+0	10:15:23.029	CCI AUDCAD,H1: uninit reason 3
+0	10:15:23.029	ZigZag AUDCAD,Daily: initialized
+0	10:15:23.029	RSI AUDCAD,Daily: initialized
+0	10:15:23.030	CCI AUDCAD,Daily: initialized
+0	10:15:23.645	ZigZag AUDCAD,Daily: uninit reason 3
+0	10:15:23.645	RSI AUDCAD,Daily: uninit reason 3
+0	10:15:23.645	CCI AUDCAD,Daily: uninit reason 3
+0	10:15:23.645	ZigZag AUDCAD,Weekly: initialized
+0	10:15:23.645	RSI AUDCAD,Weekly: initialized
+0	10:15:23.646	CCI AUDCAD,Weekly: initialized
+0	10:15:35.260	ZigZag AUDCAD,Weekly: uninit reason 3
+0	10:15:35.260	RSI AUDCAD,Weekly: uninit reason 3
+0	10:15:35.260	CCI AUDCAD,Weekly: uninit reason 3
+0	10:15:35.261	ZigZag AUDCAD,Daily: initialized
+0	10:15:35.261	RSI AUDCAD,Daily: initialized
+0	10:15:35.261	CCI AUDCAD,Daily: initialized
+0	10:15:36.288	ZigZag AUDCAD,Daily: uninit reason 3
+0	10:15:36.288	RSI AUDCAD,Daily: uninit reason 3
+0	10:15:36.288	CCI AUDCAD,Daily: uninit reason 3
+0	10:15:36.288	ZigZag AUDCAD,H4: initialized
+0	10:15:36.288	RSI AUDCAD,H4: initialized
+0	10:15:36.288	CCI AUDCAD,H4: initialized
+0	10:17:08.551	ZigZag AUDCAD,H4: uninit reason 3
+0	10:17:08.551	RSI AUDCAD,H4: uninit reason 3
+0	10:17:08.551	CCI AUDCAD,H4: uninit reason 3
+0	10:17:08.552	ZigZag AUDCAD,H1: initialized
+0	10:17:08.552	RSI AUDCAD,H1: initialized
+0	10:17:08.552	CCI AUDCAD,H1: initialized
+0	10:24:40.546	ZigZag AUDCAD,H1: uninit reason 3
+0	10:24:40.546	RSI AUDCAD,H1: uninit reason 3
+0	10:24:40.546	CCI AUDCAD,H1: uninit reason 3
+0	10:24:40.550	ZigZag AUDCAD,M30: initialized
+0	10:24:40.551	RSI AUDCAD,M30: initialized
+0	10:24:40.551	CCI AUDCAD,M30: initialized
+0	10:24:43.698	ZigZag AUDCAD,M30: uninit reason 3
+0	10:24:43.698	RSI AUDCAD,M30: uninit reason 3
+0	10:24:43.698	CCI AUDCAD,M30: uninit reason 3
+0	10:24:43.701	ZigZag AUDCAD,M15: initialized
+0	10:24:43.701	RSI AUDCAD,M15: initialized
+0	10:24:43.702	CCI AUDCAD,M15: initialized
+0	10:28:54.372	ZigZag AUDCAD,M15: uninit reason 3
+0	10:28:54.372	RSI AUDCAD,M15: uninit reason 3
+0	10:28:54.372	CCI AUDCAD,M15: uninit reason 3
+0	10:28:54.381	ZigZag AUDCAD,M5: initialized
+0	10:28:54.381	RSI AUDCAD,M5: initialized
+0	10:28:54.382	CCI AUDCAD,M5: initialized
+0	10:28:55.621	ZigZag AUDCAD,M5: uninit reason 3
+0	10:28:55.621	RSI AUDCAD,M5: uninit reason 3
+0	10:28:55.621	CCI AUDCAD,M5: uninit reason 3
+0	10:28:55.621	ZigZag AUDCAD,M15: initialized
+0	10:28:55.622	RSI AUDCAD,M15: initialized
+0	10:28:55.622	CCI AUDCAD,M15: initialized
+0	10:28:56.163	ZigZag AUDCAD,M15: uninit reason 3
+0	10:28:56.164	RSI AUDCAD,M15: uninit reason 3
+0	10:28:56.164	CCI AUDCAD,M15: uninit reason 3
+0	10:28:56.165	ZigZag AUDCAD,M30: initialized
+0	10:28:56.166	RSI AUDCAD,M30: initialized
+0	10:28:56.166	CCI AUDCAD,M30: initialized
+0	10:28:56.804	ZigZag AUDCAD,M30: uninit reason 3
+0	10:28:56.804	RSI AUDCAD,M30: uninit reason 3
+0	10:28:56.804	CCI AUDCAD,M30: uninit reason 3
+0	10:28:56.804	ZigZag AUDCAD,H1: initialized
+0	10:28:56.805	RSI AUDCAD,H1: initialized
+0	10:28:56.805	CCI AUDCAD,H1: initialized
+0	10:28:58.515	ZigZag AUDCAD,H1: uninit reason 3
+0	10:28:58.515	RSI AUDCAD,H1: uninit reason 3
+0	10:28:58.515	CCI AUDCAD,H1: uninit reason 3
+0	10:28:58.516	ZigZag AUDCAD,M30: initialized
+0	10:28:58.516	RSI AUDCAD,M30: initialized
+0	10:28:58.516	CCI AUDCAD,M30: initialized
+0	10:29:03.371	ZigZag AUDCAD,M30: uninit reason 3
+0	10:29:03.371	RSI AUDCAD,M30: uninit reason 3
+0	10:29:03.371	CCI AUDCAD,M30: uninit reason 3
+0	10:29:03.381	ZigZag AUDCAD,M1: initialized
+0	10:29:03.381	RSI AUDCAD,M1: initialized
+0	10:29:03.382	CCI AUDCAD,M1: initialized
+0	10:30:05.701	ZigZag AUDCAD,M1: uninit reason 3
+0	10:30:05.701	RSI AUDCAD,M1: uninit reason 3
+0	10:30:05.701	CCI AUDCAD,M1: uninit reason 3
+0	10:30:05.703	ZigZag AUDCAD,M30: initialized
+0	10:30:05.703	RSI AUDCAD,M30: initialized
+0	10:30:05.704	CCI AUDCAD,M30: initialized
+0	10:30:06.356	ZigZag AUDCAD,M30: uninit reason 3
+0	10:30:06.356	RSI AUDCAD,M30: uninit reason 3
+0	10:30:06.356	CCI AUDCAD,M30: uninit reason 3
+0	10:30:06.357	ZigZag AUDCAD,H1: initialized
+0	10:30:06.358	RSI AUDCAD,H1: initialized
+0	10:30:06.358	CCI AUDCAD,H1: initialized
+0	10:30:09.827	ZigZag AUDCAD,H1: uninit reason 3
+0	10:30:09.827	RSI AUDCAD,H1: uninit reason 3
+0	10:30:09.827	CCI AUDCAD,H1: uninit reason 3
+0	10:30:09.827	ZigZag AUDCAD,H4: initialized
+0	10:30:09.828	RSI AUDCAD,H4: initialized
+0	10:30:09.828	CCI AUDCAD,H4: initialized
+0	10:30:13.357	ZigZag AUDCAD,H4: uninit reason 3
+0	10:30:13.357	RSI AUDCAD,H4: uninit reason 3
+0	10:30:13.357	CCI AUDCAD,H4: uninit reason 3
+0	10:30:13.357	ZigZag AUDCAD,Daily: initialized
+0	10:30:13.357	RSI AUDCAD,Daily: initialized
+0	10:30:13.358	CCI AUDCAD,Daily: initialized
+0	10:30:52.718	ZigZag XAUUSD,H4: uninit reason 3
+0	10:30:52.718	RSI XAUUSD,H4: uninit reason 3
+0	10:30:52.718	CCI XAUUSD,H4: uninit reason 3
+0	10:30:52.720	ZigZag XAUUSD,H1: initialized
+0	10:30:52.720	RSI XAUUSD,H1: initialized
+0	10:30:52.721	CCI XAUUSD,H1: initialized
+0	16:29:50.088	ZigZag XAUUSD,H1: uninit reason 3
+0	16:29:50.090	RSI XAUUSD,H1: uninit reason 3
+0	16:29:50.090	CCI XAUUSD,H1: uninit reason 3
+0	16:29:50.093	ZigZag XAUUSD,Daily: initialized
+0	16:29:50.095	RSI XAUUSD,Daily: initialized
+0	16:29:50.097	CCI XAUUSD,Daily: initialized
+0	16:29:53.511	ZigZag XAUUSD,Daily: uninit reason 3
+0	16:29:53.511	RSI XAUUSD,Daily: uninit reason 3
+0	16:29:53.511	CCI XAUUSD,Daily: uninit reason 3
+0	16:29:53.518	ZigZag XAUUSD,H4: initialized
+0	16:29:53.518	RSI XAUUSD,H4: initialized
+0	16:29:53.519	CCI XAUUSD,H4: initialized
+0	16:30:01.784	ZigZag XAUUSD,H4: uninit reason 3
+0	16:30:01.784	RSI XAUUSD,H4: uninit reason 3
+0	16:30:01.784	CCI XAUUSD,H4: uninit reason 3
+0	16:30:01.786	ZigZag XAUUSD,H1: initialized
+0	16:30:01.786	RSI XAUUSD,H1: initialized
+0	16:30:01.787	CCI XAUUSD,H1: initialized
+0	16:30:02.753	ZigZag XAUUSD,H1: uninit reason 3
+0	16:30:02.753	RSI XAUUSD,H1: uninit reason 3
+0	16:30:02.753	CCI XAUUSD,H1: uninit reason 3
+0	16:30:02.753	ZigZag XAUUSD,H4: initialized
+0	16:30:02.753	RSI XAUUSD,H4: initialized
+0	16:30:02.753	CCI XAUUSD,H4: initialized
+0	16:31:08.575	Custom indicator ZigZag EURUSD,H1: loaded successfully
+0	16:31:08.587	Custom indicator RSI EURUSD,H1: loaded successfully
+0	16:31:08.600	Custom indicator CCI EURUSD,H1: loaded successfully
+0	16:31:08.619	ZigZag EURUSD,H1: initialized
+0	16:31:08.635	RSI EURUSD,H1: initialized
+0	16:31:08.648	CCI EURUSD,H1: initialized
+0	16:31:18.311	ZigZag EURUSD,H1: uninit reason 1
+0	16:31:18.313	Custom indicator ZigZag EURUSD,H1: removed
+0	16:31:19.711	RSI EURUSD,H1: uninit reason 1
+0	16:31:19.713	Custom indicator RSI EURUSD,H1: removed
+0	16:31:20.952	CCI EURUSD,H1: uninit reason 1
+0	16:31:20.953	Custom indicator CCI EURUSD,H1: removed
+0	16:31:33.753	Custom indicator ZigZag EURUSD,H1: loaded successfully
+0	16:31:33.765	Custom indicator myZhiBiao\L_H_xinhao EURUSD,H1: loaded successfully
+0	16:31:33.777	Custom indicator myZhiBiao\ztr_zf_3bei EURUSD,H1: loaded successfully
+0	16:31:33.786	Custom indicator RSI EURUSD,H1: loaded successfully
+0	16:31:33.803	ZigZag EURUSD,H1: initialized
+0	16:31:33.817	L_H_xinhao EURUSD,H1: initialized
+0	16:31:33.832	ztr_zf_3bei EURUSD,H1: initialized
+0	16:31:33.844	RSI EURUSD,H1: initialized
+0	16:39:02.773	ZigZag EURUSD,H1: uninit reason 3
+0	16:39:02.773	L_H_xinhao EURUSD,H1: uninit reason 3
+0	16:39:02.773	ztr_zf_3bei EURUSD,H1: uninit reason 3
+0	16:39:02.775	RSI EURUSD,H1: uninit reason 3
+0	16:39:02.783	ZigZag EURUSD,M1: initialized
+0	16:39:02.784	L_H_xinhao EURUSD,M1: initialized
+0	16:39:02.784	ztr_zf_3bei EURUSD,M1: initialized
+0	16:39:02.785	RSI EURUSD,M1: initialized
+0	16:39:30.389	ZigZag EURUSD,M1: uninit reason 3
+0	16:39:30.389	L_H_xinhao EURUSD,M1: uninit reason 3
+0	16:39:30.389	ztr_zf_3bei EURUSD,M1: uninit reason 3
+0	16:39:30.390	RSI EURUSD,M1: uninit reason 3
+0	16:39:30.398	ZigZag EURUSD,M5: initialized
+0	16:39:30.399	L_H_xinhao EURUSD,M5: initialized
+0	16:39:30.399	ztr_zf_3bei EURUSD,M5: initialized
+0	16:39:30.399	RSI EURUSD,M5: initialized
+0	16:40:02.420	ZigZag EURUSD,M5: uninit reason 3
+0	16:40:02.420	L_H_xinhao EURUSD,M5: uninit reason 3
+0	16:40:02.420	ztr_zf_3bei EURUSD,M5: uninit reason 3
+0	16:40:02.421	RSI EURUSD,M5: uninit reason 3
+0	16:40:02.430	ZigZag EURUSD,M15: initialized
+0	16:40:02.430	L_H_xinhao EURUSD,M15: initialized
+0	16:40:02.431	ztr_zf_3bei EURUSD,M15: initialized
+0	16:40:02.431	RSI EURUSD,M15: initialized
+0	16:42:50.436	Custom indicator ZigZag GBPAUD,H1: loaded successfully
+0	16:42:50.446	Custom indicator myZhiBiao\L_H_xinhao GBPAUD,H1: loaded successfully
+0	16:42:50.457	Custom indicator myZhiBiao\ztr_zf_3bei GBPAUD,H1: loaded successfully
+0	16:42:50.468	Custom indicator RSI GBPAUD,H1: loaded successfully
+0	16:42:50.483	ZigZag GBPAUD,H1: initialized
+0	16:42:50.497	L_H_xinhao GBPAUD,H1: initialized
+0	16:42:50.511	ztr_zf_3bei GBPAUD,H1: initialized
+0	16:42:50.523	RSI GBPAUD,H1: initialized
+0	16:43:10.230	ZigZag GBPAUD,H1: uninit reason 3
+0	16:43:10.230	L_H_xinhao GBPAUD,H1: uninit reason 3
+0	16:43:10.230	ztr_zf_3bei GBPAUD,H1: uninit reason 3
+0	16:43:10.231	RSI GBPAUD,H1: uninit reason 3
+0	16:43:10.237	ZigZag GBPAUD,M15: initialized
+0	16:43:10.237	L_H_xinhao GBPAUD,M15: initialized
+0	16:43:10.237	ztr_zf_3bei GBPAUD,M15: initialized
+0	16:43:10.238	RSI GBPAUD,M15: initialized
+0	16:43:35.406	ZigZag GBPAUD,M15: uninit reason 3
+0	16:43:35.406	L_H_xinhao GBPAUD,M15: uninit reason 3
+0	16:43:35.406	ztr_zf_3bei GBPAUD,M15: uninit reason 3
+0	16:43:35.408	RSI GBPAUD,M15: uninit reason 3
+0	16:43:35.409	ZigZag GBPAUD,H1: initialized
+0	16:43:35.409	L_H_xinhao GBPAUD,H1: initialized
+0	16:43:35.409	ztr_zf_3bei GBPAUD,H1: initialized
+0	16:43:35.410	RSI GBPAUD,H1: initialized
+0	16:44:20.526	ZigZag GBPAUD,H1: uninit reason 3
+0	16:44:20.526	L_H_xinhao GBPAUD,H1: uninit reason 3
+0	16:44:20.526	ztr_zf_3bei GBPAUD,H1: uninit reason 3
+0	16:44:20.527	RSI GBPAUD,H1: uninit reason 3
+0	16:44:20.530	ZigZag GBPAUD,M15: initialized
+0	16:44:20.530	L_H_xinhao GBPAUD,M15: initialized
+0	16:44:20.531	ztr_zf_3bei GBPAUD,M15: initialized
+0	16:44:20.531	RSI GBPAUD,M15: initialized
+0	16:47:32.014	ZigZag GBPAUD,M15: uninit reason 3
+0	16:47:32.014	L_H_xinhao GBPAUD,M15: uninit reason 3
+0	16:47:32.014	ztr_zf_3bei GBPAUD,M15: uninit reason 3
+0	16:47:32.015	RSI GBPAUD,M15: uninit reason 3
+0	16:47:32.016	ZigZag GBPAUD,H1: initialized
+0	16:47:32.017	L_H_xinhao GBPAUD,H1: initialized
+0	16:47:32.017	ztr_zf_3bei GBPAUD,H1: initialized
+0	16:47:32.017	RSI GBPAUD,H1: initialized
+0	16:50:29.680	ZigZag GBPAUD,H1: uninit reason 3
+0	16:50:29.680	L_H_xinhao GBPAUD,H1: uninit reason 3
+0	16:50:29.680	ztr_zf_3bei GBPAUD,H1: uninit reason 3
+0	16:50:29.682	RSI GBPAUD,H1: uninit reason 3
+0	16:50:29.683	ZigZag GBPAUD,M30: initialized
+0	16:50:29.683	L_H_xinhao GBPAUD,M30: initialized
+0	16:50:29.683	ztr_zf_3bei GBPAUD,M30: initialized
+0	16:50:29.684	RSI GBPAUD,M30: initialized
+0	16:50:50.382	ZigZag GBPAUD,M30: uninit reason 7
+0	16:50:50.382	L_H_xinhao GBPAUD,M30: uninit reason 7
+0	16:50:50.382	ztr_zf_3bei GBPAUD,M30: uninit reason 7
+0	16:50:50.383	RSI GBPAUD,M30: uninit reason 7
+0	16:50:50.385	Custom indicator ZigZag GBPAUD,M30: removed
+0	16:50:50.387	Custom indicator L_H_xinhao GBPAUD,M30: removed
+0	16:50:50.388	Custom indicator ztr_zf_3bei GBPAUD,M30: removed
+0	16:50:50.390	Custom indicator RSI GBPAUD,M30: removed
+0	16:50:50.402	Custom indicator ZigZag GBPAUD,M30: loaded successfully
+0	16:50:50.413	Custom indicator myZhiBiao\L_H_xinhao GBPAUD,M30: loaded successfully
+0	16:50:50.422	Custom indicator myZhiBiao\ztr_zf_3bei GBPAUD,M30: loaded successfully
+0	16:50:50.432	Custom indicator RSI GBPAUD,M30: loaded successfully
+0	16:50:50.447	ZigZag GBPAUD,M30: initialized
+0	16:50:50.461	L_H_xinhao GBPAUD,M30: initialized
+0	16:50:50.476	ztr_zf_3bei GBPAUD,M30: initialized
+0	16:50:50.489	RSI GBPAUD,M30: initialized
+0	16:53:15.154	ZigZag GBPAUD,M30: uninit reason 3
+0	16:53:15.154	L_H_xinhao GBPAUD,M30: uninit reason 3
+0	16:53:15.154	ztr_zf_3bei GBPAUD,M30: uninit reason 3
+0	16:53:15.156	RSI GBPAUD,M30: uninit reason 3
+0	16:53:15.170	ZigZag GBPAUD,M15: initialized
+0	16:53:15.170	L_H_xinhao GBPAUD,M15: initialized
+0	16:53:15.170	ztr_zf_3bei GBPAUD,M15: initialized
+0	16:53:15.170	RSI GBPAUD,M15: initialized
+0	17:05:57.656	ZigZag GBPAUD,M15: uninit reason 3
+0	17:05:57.656	L_H_xinhao GBPAUD,M15: uninit reason 3
+0	17:05:57.656	ztr_zf_3bei GBPAUD,M15: uninit reason 3
+0	17:05:57.657	RSI GBPAUD,M15: uninit reason 3
+0	17:05:57.659	ZigZag GBPAUD,H1: initialized
+0	17:05:57.659	L_H_xinhao GBPAUD,H1: initialized
+0	17:05:57.659	ztr_zf_3bei GBPAUD,H1: initialized
+0	17:05:57.660	RSI GBPAUD,H1: initialized
+0	17:57:55.468	ZigZag GBPAUD,H1: uninit reason 3
+0	17:57:55.468	L_H_xinhao GBPAUD,H1: uninit reason 3
+0	17:57:55.468	ztr_zf_3bei GBPAUD,H1: uninit reason 3
+0	17:57:55.470	RSI GBPAUD,H1: uninit reason 3
+0	17:57:55.473	ZigZag GBPAUD,M15: initialized
+0	17:57:55.473	L_H_xinhao GBPAUD,M15: initialized
+0	17:57:55.474	ztr_zf_3bei GBPAUD,M15: initialized
+0	17:57:55.475	RSI GBPAUD,M15: initialized
+0	21:30:47.086	ZigZag AUDCAD,Daily: uninit reason 3
+0	21:30:47.086	RSI AUDCAD,Daily: uninit reason 3
+0	21:30:47.086	CCI AUDCAD,Daily: uninit reason 3
+0	21:30:47.091	ZigZag AUDCAD,H1: initialized
+0	21:30:47.093	RSI AUDCAD,H1: initialized
+0	21:30:47.095	CCI AUDCAD,H1: initialized
+0	21:31:24.836	ZigZag AUDCAD,H1: uninit reason 3
+0	21:31:24.836	RSI AUDCAD,H1: uninit reason 3
+0	21:31:24.836	CCI AUDCAD,H1: uninit reason 3
+0	21:31:24.836	ZigZag AUDCAD,Daily: initialized
+0	21:31:24.837	RSI AUDCAD,Daily: initialized
+0	21:31:24.837	CCI AUDCAD,Daily: initialized
+0	21:32:01.892	ZigZag AUDCAD,Daily: uninit reason 3
+0	21:32:01.892	RSI AUDCAD,Daily: uninit reason 3
+0	21:32:01.892	CCI AUDCAD,Daily: uninit reason 3
+0	21:32:01.893	ZigZag AUDCAD,H1: initialized
+0	21:32:01.893	RSI AUDCAD,H1: initialized
+0	21:32:01.894	CCI AUDCAD,H1: initialized
+0	21:32:44.260	ZigZag AUDCAD,H1: uninit reason 3
+0	21:32:44.260	RSI AUDCAD,H1: uninit reason 3
+0	21:32:44.260	CCI AUDCAD,H1: uninit reason 3
+0	21:32:44.262	ZigZag AUDCAD,H4: initialized
+0	21:32:44.262	RSI AUDCAD,H4: initialized
+0	21:32:44.263	CCI AUDCAD,H4: initialized
+0	21:33:43.047	ZigZag AUDCAD,H4: uninit reason 3
+0	21:33:43.047	RSI AUDCAD,H4: uninit reason 3
+0	21:33:43.047	CCI AUDCAD,H4: uninit reason 3
+0	21:33:43.047	ZigZag AUDCAD,Daily: initialized
+0	21:33:43.047	RSI AUDCAD,Daily: initialized
+0	21:33:43.048	CCI AUDCAD,Daily: initialized
+0	21:36:49.479	ZigZag AUDCAD,Daily: uninit reason 3
+0	21:36:49.479	RSI AUDCAD,Daily: uninit reason 3
+0	21:36:49.479	CCI AUDCAD,Daily: uninit reason 3
+0	21:36:49.479	ZigZag AUDCAD,H1: initialized
+0	21:36:49.480	RSI AUDCAD,H1: initialized
+0	21:36:49.481	CCI AUDCAD,H1: initialized
+0	21:36:51.600	ZigZag AUDCAD,H1: uninit reason 3
+0	21:36:51.600	RSI AUDCAD,H1: uninit reason 3
+0	21:36:51.600	CCI AUDCAD,H1: uninit reason 3
+0	21:36:51.600	ZigZag AUDCAD,Daily: initialized
+0	21:36:51.601	RSI AUDCAD,Daily: initialized
+0	21:36:51.601	CCI AUDCAD,Daily: initialized
+0	21:37:24.592	ZigZag AUDCAD,Daily: uninit reason 3
+0	21:37:24.592	RSI AUDCAD,Daily: uninit reason 3
+0	21:37:24.592	CCI AUDCAD,Daily: uninit reason 3
+0	21:37:24.592	ZigZag AUDCAD,H1: initialized
+0	21:37:24.593	RSI AUDCAD,H1: initialized
+0	21:37:24.593	CCI AUDCAD,H1: initialized
+0	21:40:31.927	ZigZag AUDCAD,H1: uninit reason 3
+0	21:40:31.927	RSI AUDCAD,H1: uninit reason 3
+0	21:40:31.927	CCI AUDCAD,H1: uninit reason 3
+0	21:40:31.927	ZigZag AUDCAD,Daily: initialized
+0	21:40:31.928	RSI AUDCAD,Daily: initialized
+0	21:40:31.928	CCI AUDCAD,Daily: initialized
+0	21:40:41.297	ZigZag AUDCAD,Daily: uninit reason 3
+0	21:40:41.297	RSI AUDCAD,Daily: uninit reason 3
+0	21:40:41.297	CCI AUDCAD,Daily: uninit reason 3
+0	21:40:41.298	ZigZag AUDCAD,H1: initialized
+0	21:40:41.298	RSI AUDCAD,H1: initialized
+0	21:40:41.298	CCI AUDCAD,H1: initialized
+0	21:44:03.241	ZigZag AUDCAD,H1: uninit reason 3
+0	21:44:03.241	RSI AUDCAD,H1: uninit reason 3
+0	21:44:03.241	CCI AUDCAD,H1: uninit reason 3
+0	21:44:03.241	ZigZag AUDCAD,Daily: initialized
+0	21:44:03.242	RSI AUDCAD,Daily: initialized
+0	21:44:03.242	CCI AUDCAD,Daily: initialized
+0	21:49:02.734	ZigZag AUDCAD,Daily: uninit reason 3
+0	21:49:02.734	RSI AUDCAD,Daily: uninit reason 3
+0	21:49:02.734	CCI AUDCAD,Daily: uninit reason 3
+0	21:49:02.734	ZigZag AUDCAD,H1: initialized
+0	21:49:02.735	RSI AUDCAD,H1: initialized
+0	21:49:02.736	CCI AUDCAD,H1: initialized
+0	21:49:06.243	ZigZag AUDCAD,H1: uninit reason 3
+0	21:49:06.243	RSI AUDCAD,H1: uninit reason 3
+0	21:49:06.243	CCI AUDCAD,H1: uninit reason 3
+0	21:49:06.243	ZigZag AUDCAD,H4: initialized
+0	21:49:06.244	RSI AUDCAD,H4: initialized
+0	21:49:06.244	CCI AUDCAD,H4: initialized
+0	21:49:11.636	ZigZag AUDCAD,H4: uninit reason 3
+0	21:49:11.636	RSI AUDCAD,H4: uninit reason 3
+0	21:49:11.636	CCI AUDCAD,H4: uninit reason 3
+0	21:49:11.636	ZigZag AUDCAD,Daily: initialized
+0	21:49:11.636	RSI AUDCAD,Daily: initialized
+0	21:49:11.636	CCI AUDCAD,Daily: initialized
+0	21:49:54.219	ZigZag AUDCAD,Daily: uninit reason 3
+0	21:49:54.219	RSI AUDCAD,Daily: uninit reason 3
+0	21:49:54.219	CCI AUDCAD,Daily: uninit reason 3
+0	21:49:54.220	ZigZag AUDCAD,H1: initialized
+0	21:49:54.221	RSI AUDCAD,H1: initialized
+0	21:49:54.221	CCI AUDCAD,H1: initialized
+0	21:51:56.877	ZigZag AUDCAD,H1: uninit reason 3
+0	21:51:56.877	RSI AUDCAD,H1: uninit reason 3
+0	21:51:56.877	CCI AUDCAD,H1: uninit reason 3
+0	21:51:56.877	ZigZag AUDCAD,Daily: initialized
+0	21:51:56.877	RSI AUDCAD,Daily: initialized
+0	21:51:56.878	CCI AUDCAD,Daily: initialized
+0	21:52:08.013	ZigZag AUDCAD,Daily: uninit reason 3
+0	21:52:08.013	RSI AUDCAD,Daily: uninit reason 3
+0	21:52:08.013	CCI AUDCAD,Daily: uninit reason 3
+0	21:52:08.015	ZigZag AUDCAD,Weekly: initialized
+0	21:52:08.016	RSI AUDCAD,Weekly: initialized
+0	21:52:08.016	CCI AUDCAD,Weekly: initialized
+0	21:52:43.510	ZigZag AUDCAD,Weekly: uninit reason 3
+0	21:52:43.510	RSI AUDCAD,Weekly: uninit reason 3
+0	21:52:43.510	CCI AUDCAD,Weekly: uninit reason 3
+0	21:52:43.512	ZigZag AUDCAD,Monthly: initialized
+0	21:52:43.512	RSI AUDCAD,Monthly: initialized
+0	21:52:43.513	CCI AUDCAD,Monthly: initialized
+0	21:53:43.870	ZigZag AUDCAD,Monthly: uninit reason 3
+0	21:53:43.870	RSI AUDCAD,Monthly: uninit reason 3
+0	21:53:43.870	CCI AUDCAD,Monthly: uninit reason 3
+0	21:53:43.870	ZigZag AUDCAD,Weekly: initialized
+0	21:53:43.870	RSI AUDCAD,Weekly: initialized
+0	21:53:43.871	CCI AUDCAD,Weekly: initialized
+0	21:53:54.423	ZigZag AUDCAD,Weekly: uninit reason 3
+0	21:53:54.423	RSI AUDCAD,Weekly: uninit reason 3
+0	21:53:54.423	CCI AUDCAD,Weekly: uninit reason 3
+0	21:53:54.423	ZigZag AUDCAD,Daily: initialized
+0	21:53:54.424	RSI AUDCAD,Daily: initialized
+0	21:53:54.424	CCI AUDCAD,Daily: initialized
+0	21:54:56.829	ZigZag AUDCAD,Daily: uninit reason 3
+0	21:54:56.829	RSI AUDCAD,Daily: uninit reason 3
+0	21:54:56.829	CCI AUDCAD,Daily: uninit reason 3
+0	21:54:56.830	ZigZag AUDCAD,H1: initialized
+0	21:54:56.831	RSI AUDCAD,H1: initialized
+0	21:54:56.831	CCI AUDCAD,H1: initialized
+0	21:56:45.687	ZigZag AUDCAD,H1: uninit reason 3
+0	21:56:45.687	RSI AUDCAD,H1: uninit reason 3
+0	21:56:45.687	CCI AUDCAD,H1: uninit reason 3
+0	21:56:45.687	ZigZag AUDCAD,H4: initialized
+0	21:56:45.687	RSI AUDCAD,H4: initialized
+0	21:56:45.688	CCI AUDCAD,H4: initialized
+0	21:59:10.305	ZigZag AUDCAD,H4: uninit reason 3
+0	21:59:10.305	RSI AUDCAD,H4: uninit reason 3
+0	21:59:10.305	CCI AUDCAD,H4: uninit reason 3
+0	21:59:10.306	ZigZag AUDCAD,H1: initialized
+0	21:59:10.306	RSI AUDCAD,H1: initialized
+0	21:59:10.307	CCI AUDCAD,H1: initialized
+0	22:01:33.442	ZigZag AUDCAD,H1: uninit reason 3
+0	22:01:33.442	RSI AUDCAD,H1: uninit reason 3
+0	22:01:33.442	CCI AUDCAD,H1: uninit reason 3
+0	22:01:33.442	ZigZag AUDCAD,H4: initialized
+0	22:01:33.443	RSI AUDCAD,H4: initialized
+0	22:01:33.443	CCI AUDCAD,H4: initialized
+0	22:01:33.938	ZigZag AUDCAD,H4: uninit reason 3
+0	22:01:33.938	RSI AUDCAD,H4: uninit reason 3
+0	22:01:33.938	CCI AUDCAD,H4: uninit reason 3
+0	22:01:33.938	ZigZag AUDCAD,Daily: initialized
+0	22:01:33.939	RSI AUDCAD,Daily: initialized
+0	22:01:33.939	CCI AUDCAD,Daily: initialized
+0	22:01:36.546	ZigZag AUDCAD,Daily: uninit reason 3
+0	22:01:36.546	RSI AUDCAD,Daily: uninit reason 3
+0	22:01:36.546	CCI AUDCAD,Daily: uninit reason 3
+0	22:01:36.546	ZigZag AUDCAD,Weekly: initialized
+0	22:01:36.547	RSI AUDCAD,Weekly: initialized
+0	22:01:36.548	CCI AUDCAD,Weekly: initialized
+0	22:02:30.865	ZigZag AUDCAD,Weekly: uninit reason 3
+0	22:02:30.865	RSI AUDCAD,Weekly: uninit reason 3
+0	22:02:30.865	CCI AUDCAD,Weekly: uninit reason 3
+0	22:02:30.866	ZigZag AUDCAD,H1: initialized
+0	22:02:30.866	RSI AUDCAD,H1: initialized
+0	22:02:30.867	CCI AUDCAD,H1: initialized
+0	22:04:40.636	ZigZag AUDCAD,H1: uninit reason 3
+0	22:04:40.636	RSI AUDCAD,H1: uninit reason 3
+0	22:04:40.636	CCI AUDCAD,H1: uninit reason 3
+0	22:04:40.636	ZigZag AUDCAD,H4: initialized
+0	22:04:40.637	RSI AUDCAD,H4: initialized
+0	22:04:40.637	CCI AUDCAD,H4: initialized
+0	22:05:54.236	ZigZag AUDCAD,H4: uninit reason 3
+0	22:05:54.236	RSI AUDCAD,H4: uninit reason 3
+0	22:05:54.236	CCI AUDCAD,H4: uninit reason 3
+0	22:05:54.236	ZigZag AUDCAD,Daily: initialized
+0	22:05:54.236	RSI AUDCAD,Daily: initialized
+0	22:05:54.237	CCI AUDCAD,Daily: initialized
+0	22:06:50.645	ZigZag XAUUSD,H4: uninit reason 3
+0	22:06:50.645	RSI XAUUSD,H4: uninit reason 3
+0	22:06:50.645	CCI XAUUSD,H4: uninit reason 3
+0	22:06:50.646	ZigZag XAUUSD,Daily: initialized
+0	22:06:50.648	RSI XAUUSD,Daily: initialized
+0	22:06:50.650	CCI XAUUSD,Daily: initialized
+0	22:08:53.164	ZigZag XAUUSD,Daily: uninit reason 3
+0	22:08:53.164	RSI XAUUSD,Daily: uninit reason 3
+0	22:08:53.164	CCI XAUUSD,Daily: uninit reason 3
+0	22:08:53.171	ZigZag XAUUSD,H1: initialized
+0	22:08:53.171	RSI XAUUSD,H1: initialized
+0	22:08:53.171	CCI XAUUSD,H1: initialized
+0	22:17:20.322	ZigZag AUDCAD,Daily: uninit reason 3
+0	22:17:20.322	RSI AUDCAD,Daily: uninit reason 3
+0	22:17:20.322	CCI AUDCAD,Daily: uninit reason 3
+0	22:17:20.323	ZigZag AUDCAD,H1: initialized
+0	22:17:20.323	RSI AUDCAD,H1: initialized
+0	22:17:20.324	CCI AUDCAD,H1: initialized
+0	22:17:52.833	ZigZag AUDCAD,H1: uninit reason 3
+0	22:17:52.833	RSI AUDCAD,H1: uninit reason 3
+0	22:17:52.833	CCI AUDCAD,H1: uninit reason 3
+0	22:17:52.833	ZigZag AUDCAD,Daily: initialized
+0	22:17:52.833	RSI AUDCAD,Daily: initialized
+0	22:17:52.834	CCI AUDCAD,Daily: initialized
+0	22:20:27.953	ZigZag AUDCAD,Daily: uninit reason 3
+0	22:20:27.953	RSI AUDCAD,Daily: uninit reason 3
+0	22:20:27.953	CCI AUDCAD,Daily: uninit reason 3
+0	22:20:27.953	ZigZag AUDCAD,Weekly: initialized
+0	22:20:27.953	RSI AUDCAD,Weekly: initialized
+0	22:20:27.954	CCI AUDCAD,Weekly: initialized
+0	22:20:28.608	ZigZag AUDCAD,Weekly: uninit reason 3
+0	22:20:28.608	RSI AUDCAD,Weekly: uninit reason 3
+0	22:20:28.608	CCI AUDCAD,Weekly: uninit reason 3
+0	22:20:28.608	ZigZag AUDCAD,Daily: initialized
+0	22:20:28.609	RSI AUDCAD,Daily: initialized
+0	22:20:28.609	CCI AUDCAD,Daily: initialized

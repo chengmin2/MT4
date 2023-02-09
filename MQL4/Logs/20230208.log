@@ -1,0 +1,8 @@
+0	09:52:35.116	minutes_zf XAUUSD,M5: uninit reason 2
+0	09:52:35.118	Custom indicator minutes_zf XAUUSD,M5: removed
+0	09:52:35.127	Custom indicator myZhiBiao\minutes_zf XAUUSD,M5: loaded successfully
+0	09:52:35.140	minutes_zf XAUUSD,M5: initialized
+0	09:52:35.142	minutes_zf USDJPY,M5: uninit reason 2
+0	09:52:35.143	Custom indicator minutes_zf USDJPY,M5: removed
+0	09:52:35.153	Custom indicator myZhiBiao\minutes_zf USDJPY,M5: loaded successfully
+0	09:52:35.168	minutes_zf USDJPY,M5: initialized

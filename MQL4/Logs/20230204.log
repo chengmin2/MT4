@@ -1,0 +1,6 @@
+0	12:15:51.351	ZigZag XAUUSD,H1: uninit reason 3
+0	12:15:51.353	RSI XAUUSD,H1: uninit reason 3
+0	12:15:51.353	CCI XAUUSD,H1: uninit reason 3
+0	12:15:51.360	ZigZag XAUUSD,H4: initialized
+0	12:15:51.362	RSI XAUUSD,H4: initialized
+0	12:15:51.365	CCI XAUUSD,H4: initialized

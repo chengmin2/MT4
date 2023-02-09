@@ -1,0 +1,74 @@
+0	09:48:22.950	Custom indicator ZigZag XAUUSD,Daily: loaded successfully
+0	09:48:22.964	Custom indicator RSI XAUUSD,Daily: loaded successfully
+0	09:48:22.977	Custom indicator CCI XAUUSD,Daily: loaded successfully
+0	09:48:22.998	ZigZag XAUUSD,Daily: initialized
+0	09:48:23.017	RSI XAUUSD,Daily: initialized
+0	09:48:23.035	CCI XAUUSD,Daily: initialized
+0	09:48:23.109	Custom indicator ZigZag AUDCAD,Daily: loaded successfully
+0	09:48:23.120	Custom indicator RSI AUDCAD,Daily: loaded successfully
+0	09:48:23.136	Custom indicator CCI AUDCAD,Daily: loaded successfully
+0	09:48:23.159	ZigZag AUDCAD,Daily: initialized
+0	09:48:23.174	RSI AUDCAD,Daily: initialized
+0	09:48:23.190	CCI AUDCAD,Daily: initialized
+0	09:48:23.261	Custom indicator myZhiBiao\minutes_zf XAUUSD,M5: loaded successfully
+0	09:48:23.287	minutes_zf XAUUSD,M5: initialized
+0	09:48:23.334	Custom indicator myZhiBiao\minutes_zf USDJPY,M5: loaded successfully
+0	09:48:23.360	minutes_zf USDJPY,M5: initialized
+0	09:48:23.405	Custom indicator ZigZag XAUUSD,M15: loaded successfully
+0	09:48:23.420	Custom indicator RSI XAUUSD,M15: loaded successfully
+0	09:48:23.435	Custom indicator CCI XAUUSD,M15: loaded successfully
+0	09:48:23.462	ZigZag XAUUSD,M15: initialized
+0	09:48:23.475	RSI XAUUSD,M15: initialized
+0	09:48:23.487	CCI XAUUSD,M15: initialized
+0	09:50:27.286	ZigZag XAUUSD,Daily: uninit reason 3
+0	09:50:27.286	RSI XAUUSD,Daily: uninit reason 3
+0	09:50:27.286	CCI XAUUSD,Daily: uninit reason 3
+0	09:50:27.295	ZigZag XAUUSD,H1: initialized
+0	09:50:27.295	RSI XAUUSD,H1: initialized
+0	09:50:27.295	CCI XAUUSD,H1: initialized
+0	09:51:10.662	ZigZag XAUUSD,H1: uninit reason 3
+0	09:51:10.662	RSI XAUUSD,H1: uninit reason 3
+0	09:51:10.662	CCI XAUUSD,H1: uninit reason 3
+0	09:51:10.668	ZigZag XAUUSD,H4: initialized
+0	09:51:10.668	RSI XAUUSD,H4: initialized
+0	09:51:10.668	CCI XAUUSD,H4: initialized
+0	09:51:22.046	ZigZag XAUUSD,H4: uninit reason 3
+0	09:51:22.046	RSI XAUUSD,H4: uninit reason 3
+0	09:51:22.046	CCI XAUUSD,H4: uninit reason 3
+0	09:51:22.049	ZigZag XAUUSD,H1: initialized
+0	09:51:22.049	RSI XAUUSD,H1: initialized
+0	09:51:22.050	CCI XAUUSD,H1: initialized
+0	10:04:41.270	ZigZag XAUUSD,H1: uninit reason 3
+0	10:04:41.270	RSI XAUUSD,H1: uninit reason 3
+0	10:04:41.270	CCI XAUUSD,H1: uninit reason 3
+0	10:04:41.271	ZigZag XAUUSD,M15: initialized
+0	10:04:41.271	RSI XAUUSD,M15: initialized
+0	10:04:41.272	CCI XAUUSD,M15: initialized
+0	10:08:36.381	ZigZag XAUUSD,M15: uninit reason 3
+0	10:08:36.381	RSI XAUUSD,M15: uninit reason 3
+0	10:08:36.381	CCI XAUUSD,M15: uninit reason 3
+0	10:08:36.385	ZigZag XAUUSD,H1: initialized
+0	10:08:36.385	RSI XAUUSD,H1: initialized
+0	10:08:36.386	CCI XAUUSD,H1: initialized
+0	10:19:27.778	Custom indicator ZigZag XAUUSD,Daily: loaded successfully
+0	10:19:27.787	Custom indicator RSI XAUUSD,Daily: loaded successfully
+0	10:19:27.797	Custom indicator CCI XAUUSD,Daily: loaded successfully
+0	10:19:27.816	ZigZag XAUUSD,Daily: initialized
+0	10:19:27.829	RSI XAUUSD,Daily: initialized
+0	10:19:27.841	CCI XAUUSD,Daily: initialized
+0	10:19:27.895	Custom indicator ZigZag AUDCAD,Daily: loaded successfully
+0	10:19:27.903	Custom indicator RSI AUDCAD,Daily: loaded successfully
+0	10:19:27.913	Custom indicator CCI AUDCAD,Daily: loaded successfully
+0	10:19:27.929	ZigZag AUDCAD,Daily: initialized
+0	10:19:27.942	RSI AUDCAD,Daily: initialized
+0	10:19:27.954	CCI AUDCAD,Daily: initialized
+0	10:19:28.004	Custom indicator myZhiBiao\minutes_zf XAUUSD,M5: loaded successfully
+0	10:19:28.025	minutes_zf XAUUSD,M5: initialized
+0	10:19:28.059	Custom indicator myZhiBiao\minutes_zf USDJPY,M5: loaded successfully
+0	10:19:28.081	minutes_zf USDJPY,M5: initialized
+0	10:19:28.113	Custom indicator ZigZag XAUUSD,M15: loaded successfully
+0	10:19:28.123	Custom indicator RSI XAUUSD,M15: loaded successfully
+0	10:19:28.132	Custom indicator CCI XAUUSD,M15: loaded successfully
+0	10:19:28.156	ZigZag XAUUSD,M15: initialized
+0	10:19:28.168	RSI XAUUSD,M15: initialized
+0	10:19:28.181	CCI XAUUSD,M15: initialized
