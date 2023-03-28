@@ -1,0 +1,42 @@
+0	10:57:26.433	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	10:57:26.443	Custom indicator RSI GBPUSD,H1: loaded successfully
+0	10:57:26.452	Custom indicator CCI GBPUSD,H1: loaded successfully
+0	10:57:26.478	ZigZag GBPUSD,H1: initialized
+0	10:57:26.491	RSI GBPUSD,H1: initialized
+0	10:57:26.502	CCI GBPUSD,H1: initialized
+0	10:57:26.576	Custom indicator ZigZag EURUSD,H1: loaded successfully
+0	10:57:26.585	Custom indicator RSI EURUSD,H1: loaded successfully
+0	10:57:26.595	Custom indicator CCI EURUSD,H1: loaded successfully
+0	10:57:26.618	ZigZag EURUSD,H1: initialized
+0	10:57:26.630	RSI EURUSD,H1: initialized
+0	10:57:26.642	CCI EURUSD,H1: initialized
+0	10:57:26.718	Custom indicator ZigZag XAUUSD,H1: loaded successfully
+0	10:57:26.727	Custom indicator RSI XAUUSD,H1: loaded successfully
+0	10:57:26.738	Custom indicator CCI XAUUSD,H1: loaded successfully
+0	10:57:26.763	ZigZag XAUUSD,H1: initialized
+0	10:57:26.776	RSI XAUUSD,H1: initialized
+0	10:57:26.787	CCI XAUUSD,H1: initialized
+0	14:26:35.407	ZigZag XAUUSD,H1: uninit reason 3
+0	14:26:35.407	RSI XAUUSD,H1: uninit reason 3
+0	14:26:35.407	CCI XAUUSD,H1: uninit reason 3
+0	14:26:35.413	ZigZag XAUUSD,H4: initialized
+0	14:26:35.416	RSI XAUUSD,H4: initialized
+0	14:26:35.417	CCI XAUUSD,H4: initialized
+0	16:30:03.117	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	16:30:03.130	Custom indicator RSI GBPUSD,H1: loaded successfully
+0	16:30:03.143	Custom indicator CCI GBPUSD,H1: loaded successfully
+0	16:30:03.169	ZigZag GBPUSD,H1: initialized
+0	16:30:03.182	RSI GBPUSD,H1: initialized
+0	16:30:03.193	CCI GBPUSD,H1: initialized
+0	16:30:03.267	Custom indicator ZigZag EURUSD,H1: loaded successfully
+0	16:30:03.277	Custom indicator RSI EURUSD,H1: loaded successfully
+0	16:30:03.288	Custom indicator CCI EURUSD,H1: loaded successfully
+0	16:30:03.317	ZigZag EURUSD,H1: initialized
+0	16:30:03.334	RSI EURUSD,H1: initialized
+0	16:30:03.345	CCI EURUSD,H1: initialized
+0	16:30:03.425	Custom indicator ZigZag XAUUSD,H1: loaded successfully
+0	16:30:03.436	Custom indicator RSI XAUUSD,H1: loaded successfully
+0	16:30:03.447	Custom indicator CCI XAUUSD,H1: loaded successfully
+0	16:30:03.472	ZigZag XAUUSD,H1: initialized
+0	16:30:03.485	RSI XAUUSD,H1: initialized
+0	16:30:03.498	CCI XAUUSD,H1: initialized

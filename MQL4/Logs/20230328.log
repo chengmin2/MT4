@@ -1,0 +1,74 @@
+0	10:48:20.660	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	10:48:20.674	Custom indicator RSI GBPUSD,H1: loaded successfully
+0	10:48:20.689	Custom indicator CCI GBPUSD,H1: loaded successfully
+0	10:48:20.715	ZigZag GBPUSD,H1: initialized
+0	10:48:20.731	RSI GBPUSD,H1: initialized
+0	10:48:20.747	CCI GBPUSD,H1: initialized
+0	10:48:20.847	Custom indicator ZigZag EURUSD,H1: loaded successfully
+0	10:48:20.862	Custom indicator RSI EURUSD,H1: loaded successfully
+0	10:48:20.874	Custom indicator CCI EURUSD,H1: loaded successfully
+0	10:48:21.061	ZigZag EURUSD,H1: initialized
+0	10:48:21.076	RSI EURUSD,H1: initialized
+0	10:48:21.091	CCI EURUSD,H1: initialized
+0	10:48:21.192	Custom indicator ZigZag XAUUSD,H1: loaded successfully
+0	10:48:21.204	Custom indicator RSI XAUUSD,H1: loaded successfully
+0	10:48:21.216	Custom indicator CCI XAUUSD,H1: loaded successfully
+0	10:48:21.240	ZigZag XAUUSD,H1: initialized
+0	10:48:21.257	RSI XAUUSD,H1: initialized
+0	10:48:21.277	CCI XAUUSD,H1: initialized
+0	10:48:21.502	Custom indicator 代写\Arrow_Alert(1) XAUUSD,H1: loaded successfully
+0	10:48:21.539	Arrow_Alert(1) XAUUSD,H1: initialized
+0	14:07:55.036	Custom indicator 代写\Arrow_Alert(1) EURUSD,H1: loaded successfully
+0	14:07:56.221	Custom indicator Arrow_Alert(1) EURUSD,H1: removed
+0	14:07:57.380	Custom indicator 代写\Arrow_Alert EURUSD,H1: loaded successfully
+0	14:07:58.470	Arrow_Alert EURUSD,H1: initialized
+0	14:07:59.611	Custom indicator 代写\VJV3 EURUSD,H1: loaded successfully
+0	14:08:00.605	VJV3 EURUSD,H1: initialized
+0	14:11:02.973	Arrow_Alert EURUSD,H1: uninit reason 1
+0	14:11:02.979	Custom indicator Arrow_Alert EURUSD,H1: removed
+0	14:11:33.946	Custom indicator 1_111_txSignal(1) EURUSD,H1: loaded successfully
+0	14:11:33.947	Custom indicator 1_111_txSignal(1) EURUSD,H1: removed
+0	14:11:54.640	Custom indicator Arrow_Alert EURUSD,H1: loaded successfully
+0	14:11:55.880	Arrow_Alert EURUSD,H1: initialized
+0	14:12:10.622	Arrow_Alert EURUSD,H1: uninit reason 1
+0	14:12:10.628	Custom indicator Arrow_Alert EURUSD,H1: removed
+0	14:13:27.612	VJV3 EURUSD,H1: uninit reason 1
+0	14:13:27.615	Custom indicator VJV3 EURUSD,H1: removed
+0	14:13:30.478	Custom indicator ADF EURUSD,H1: loaded successfully
+0	14:13:31.642	ADF EURUSD,H1: initialized
+0	14:13:51.940	ADF EURUSD,H1: uninit reason 1
+0	14:13:51.942	Custom indicator ADF EURUSD,H1: removed
+0	14:14:10.640	Custom indicator ADF AUDUSD,H1: loaded successfully
+0	14:14:12.014	ADF AUDUSD,H1: initialized
+0	14:14:30.608	ADF AUDUSD,H1: uninit reason 4
+0	14:14:30.610	Custom indicator ADF AUDUSD,H1: removed
+0	14:14:34.972	Custom indicator ADF XAUUSD,H1: loaded successfully
+0	14:14:36.036	ADF XAUUSD,H1: initialized
+0	14:15:24.778	Custom indicator 代写\VJV3 XAUUSD,H1: loaded successfully
+0	14:15:25.895	VJV3 XAUUSD,H1: initialized
+0	14:19:49.472	Custom indicator TMA centered bands XAUUSD,H1: loaded successfully
+0	14:19:52.248	Custom indicator TMA centered bands XAUUSD,H1: removed
+0	14:20:00.469	Arrow_Alert(1) XAUUSD,H1: uninit reason 1
+0	14:20:00.475	Custom indicator Arrow_Alert(1) XAUUSD,H1: removed
+0	14:20:03.432	Custom indicator TMA centered bands XAUUSD,H1: loaded successfully
+0	14:20:04.645	TMA centered bands XAUUSD,H1: initialized
+0	14:23:08.221	Custom indicator RSI XAUUSD,H1: loaded successfully
+0	14:23:09.744	RSI XAUUSD,H1: initialized
+0	14:23:29.461	RSI XAUUSD,H1: uninit reason 5
+0	14:23:29.479	RSI XAUUSD,H1: initialized
+0	14:33:10.887	Custom indicator 代写\VJV3 AUDCAD,H1: loaded successfully
+0	14:33:12.217	VJV3 AUDCAD,H1: initialized
+0	14:36:20.662	Custom indicator 代写\Arrow_Alert AUDCAD,H1: loaded successfully
+0	14:36:21.629	Arrow_Alert AUDCAD,H1: initialized
+0	14:36:28.273	Arrow_Alert AUDCAD,H1: uninit reason 1
+0	14:36:28.276	Custom indicator Arrow_Alert AUDCAD,H1: removed
+0	14:36:57.122	Custom indicator ADF AUDCAD,H1: loaded successfully
+0	14:36:58.234	ADF AUDCAD,H1: initialized
+0	14:38:25.446	Custom indicator 代写\VJV3 GBPUSD,H1: loaded successfully
+0	14:38:26.932	VJV3 GBPUSD,H1: initialized
+0	14:39:27.435	VJV3 GBPUSD,H1: uninit reason 3
+0	14:39:27.444	VJV3 GBPUSD,H4: initialized
+0	14:40:29.988	VJV3 GBPUSD,H4: uninit reason 3
+0	14:40:29.999	VJV3 GBPUSD,M30: initialized
+0	14:40:30.667	VJV3 GBPUSD,M30: uninit reason 3
+0	14:40:30.669	VJV3 GBPUSD,H1: initialized
