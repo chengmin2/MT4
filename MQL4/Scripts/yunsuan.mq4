@@ -13,6 +13,7 @@
 void OnStart()
   {
 //---
-   Alert(TimeMinute(Time[0]));
+  // Alert(TimeMinute(Time[0]));
+   Alert(MathPow(1.5,2));
   }
 //+------------------------------------------------------------------+
