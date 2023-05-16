@@ -6,3 +6,13 @@
 0	10:49:06.871	CCI XAUUSD,H4: initialized
 0	10:49:06.956	Custom indicator 代写\箭头8 GBPJPY,H1: loaded successfully
 0	10:49:06.958	箭头8 GBPJPY,H1: initialized
+0	10:49:10.775	箭头8 GBPJPY,H1: Alert: GBPJPY 60M  FS30 BUY 
+0	14:23:19.170	箭头8 GBPJPY,H1: deinitialized
+0	14:23:19.170	箭头8 GBPJPY,H1: uninit reason 4
+0	14:23:19.171	Custom indicator 箭头8 GBPJPY,H1: removed
+0	14:23:21.098	ZigZag XAUUSD,H4: uninit reason 4
+0	14:23:21.098	RSI XAUUSD,H4: uninit reason 4
+0	14:23:21.098	CCI XAUUSD,H4: uninit reason 4
+0	14:23:21.100	Custom indicator ZigZag XAUUSD,H4: removed
+0	14:23:21.101	Custom indicator RSI XAUUSD,H4: removed
+0	14:23:21.103	Custom indicator CCI XAUUSD,H4: removed
