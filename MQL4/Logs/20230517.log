@@ -1,0 +1,30 @@
+0	09:51:15.608	Custom indicator ZigZag XAUUSD,H1: loaded successfully
+0	09:51:15.617	Custom indicator RSI XAUUSD,H1: loaded successfully
+0	09:51:15.627	Custom indicator CCI XAUUSD,H1: loaded successfully
+0	09:51:15.645	ZigZag XAUUSD,H1: initialized
+0	09:51:15.657	RSI XAUUSD,H1: initialized
+0	09:51:15.670	CCI XAUUSD,H1: initialized
+0	09:51:37.766	ZigZag XAUUSD,H1: uninit reason 3
+0	09:51:37.766	RSI XAUUSD,H1: uninit reason 3
+0	09:51:37.766	CCI XAUUSD,H1: uninit reason 3
+0	09:51:37.768	ZigZag XAUUSD,H4: initialized
+0	09:51:37.768	RSI XAUUSD,H4: initialized
+0	09:51:37.768	CCI XAUUSD,H4: initialized
+0	09:51:58.783	ZigZag XAUUSD,H4: uninit reason 3
+0	09:51:58.783	RSI XAUUSD,H4: uninit reason 3
+0	09:51:58.783	CCI XAUUSD,H4: uninit reason 3
+0	09:51:58.785	ZigZag XAUUSD,Daily: initialized
+0	09:51:58.786	RSI XAUUSD,Daily: initialized
+0	09:51:58.786	CCI XAUUSD,Daily: initialized
+0	09:52:02.615	ZigZag XAUUSD,Daily: uninit reason 3
+0	09:52:02.615	RSI XAUUSD,Daily: uninit reason 3
+0	09:52:02.615	CCI XAUUSD,Daily: uninit reason 3
+0	09:52:02.615	ZigZag XAUUSD,H4: initialized
+0	09:52:02.615	RSI XAUUSD,H4: initialized
+0	09:52:02.615	CCI XAUUSD,H4: initialized
+0	09:52:06.736	ZigZag XAUUSD,H4: uninit reason 3
+0	09:52:06.736	RSI XAUUSD,H4: uninit reason 3
+0	09:52:06.736	CCI XAUUSD,H4: uninit reason 3
+0	09:52:06.736	ZigZag XAUUSD,H1: initialized
+0	09:52:06.736	RSI XAUUSD,H1: initialized
+0	09:52:06.736	CCI XAUUSD,H1: initialized

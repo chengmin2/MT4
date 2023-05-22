@@ -1,0 +1,102 @@
+0	10:15:21.697	Custom indicator ZigZag XAUUSD,H1: loaded successfully
+0	10:15:21.713	Custom indicator RSI XAUUSD,H1: loaded successfully
+0	10:15:21.724	Custom indicator CCI XAUUSD,H1: loaded successfully
+0	10:15:21.745	ZigZag XAUUSD,H1: initialized
+0	10:15:21.760	RSI XAUUSD,H1: initialized
+0	10:15:21.778	CCI XAUUSD,H1: initialized
+0	10:15:37.647	ZigZag XAUUSD,H1: uninit reason 3
+0	10:15:37.647	RSI XAUUSD,H1: uninit reason 3
+0	10:15:37.647	CCI XAUUSD,H1: uninit reason 3
+0	10:15:37.650	ZigZag XAUUSD,H4: initialized
+0	10:15:37.650	RSI XAUUSD,H4: initialized
+0	10:15:37.650	CCI XAUUSD,H4: initialized
+0	10:15:43.016	ZigZag XAUUSD,H4: uninit reason 3
+0	10:15:43.016	RSI XAUUSD,H4: uninit reason 3
+0	10:15:43.016	CCI XAUUSD,H4: uninit reason 3
+0	10:15:43.018	ZigZag XAUUSD,Daily: initialized
+0	10:15:43.018	RSI XAUUSD,Daily: initialized
+0	10:15:43.018	CCI XAUUSD,Daily: initialized
+0	10:15:47.864	ZigZag XAUUSD,Daily: uninit reason 3
+0	10:15:47.864	RSI XAUUSD,Daily: uninit reason 3
+0	10:15:47.864	CCI XAUUSD,Daily: uninit reason 3
+0	10:15:47.864	ZigZag XAUUSD,H4: initialized
+0	10:15:47.864	RSI XAUUSD,H4: initialized
+0	10:15:47.864	CCI XAUUSD,H4: initialized
+0	10:16:09.992	ZigZag XAUUSD,H4: uninit reason 3
+0	10:16:09.992	RSI XAUUSD,H4: uninit reason 3
+0	10:16:09.992	CCI XAUUSD,H4: uninit reason 3
+0	10:16:09.992	ZigZag XAUUSD,H1: initialized
+0	10:16:09.992	RSI XAUUSD,H1: initialized
+0	10:16:09.992	CCI XAUUSD,H1: initialized
+0	11:08:05.029	Custom indicator ZigZag EURJPY,H1: loaded successfully
+0	11:08:05.040	Custom indicator RSI EURJPY,H1: loaded successfully
+0	11:08:05.050	Custom indicator CCI EURJPY,H1: loaded successfully
+0	11:08:05.066	ZigZag EURJPY,H1: initialized
+0	11:08:05.079	RSI EURJPY,H1: initialized
+0	11:08:05.094	CCI EURJPY,H1: initialized
+0	11:08:06.948	ZigZag EURJPY,H1: uninit reason 3
+0	11:08:06.948	RSI EURJPY,H1: uninit reason 3
+0	11:08:06.948	CCI EURJPY,H1: uninit reason 3
+0	11:08:06.948	ZigZag EURJPY,H4: initialized
+0	11:08:06.948	RSI EURJPY,H4: initialized
+0	11:08:06.948	CCI EURJPY,H4: initialized
+0	11:08:12.620	ZigZag EURJPY,H4: uninit reason 3
+0	11:08:12.620	RSI EURJPY,H4: uninit reason 3
+0	11:08:12.620	CCI EURJPY,H4: uninit reason 3
+0	11:08:12.620	ZigZag EURJPY,Daily: initialized
+0	11:08:12.620	RSI EURJPY,Daily: initialized
+0	11:08:12.620	CCI EURJPY,Daily: initialized
+0	11:08:39.384	ZigZag EURJPY,Daily: uninit reason 3
+0	11:08:39.384	RSI EURJPY,Daily: uninit reason 3
+0	11:08:39.384	CCI EURJPY,Daily: uninit reason 3
+0	11:08:39.385	ZigZag EURJPY,H4: initialized
+0	11:08:39.385	RSI EURJPY,H4: initialized
+0	11:08:39.385	CCI EURJPY,H4: initialized
+0	11:14:34.965	Custom indicator ZigZag EURAUD,H1: loaded successfully
+0	11:14:34.981	Custom indicator RSI EURAUD,H1: loaded successfully
+0	11:14:34.992	Custom indicator CCI EURAUD,H1: loaded successfully
+0	11:14:35.010	ZigZag EURAUD,H1: initialized
+0	11:14:35.024	RSI EURAUD,H1: initialized
+0	11:14:35.038	CCI EURAUD,H1: initialized
+0	11:18:20.134	ZigZag EURJPY,H4: uninit reason 3
+0	11:18:20.134	RSI EURJPY,H4: uninit reason 3
+0	11:18:20.134	CCI EURJPY,H4: uninit reason 3
+0	11:18:20.135	ZigZag EURJPY,H1: initialized
+0	11:18:20.136	RSI EURJPY,H1: initialized
+0	11:18:20.136	CCI EURJPY,H1: initialized
+0	11:24:32.970	Custom indicator ZigZag EURCAD,H1: loaded successfully
+0	11:24:32.983	Custom indicator RSI EURCAD,H1: loaded successfully
+0	11:24:32.993	Custom indicator CCI EURCAD,H1: loaded successfully
+0	11:24:33.008	ZigZag EURCAD,H1: initialized
+0	11:24:33.020	RSI EURCAD,H1: initialized
+0	11:24:33.034	CCI EURCAD,H1: initialized
+0	11:34:07.046	Custom indicator ZigZag USDJPY,H1: loaded successfully
+0	11:34:07.056	Custom indicator RSI USDJPY,H1: loaded successfully
+0	11:34:07.067	Custom indicator CCI USDJPY,H1: loaded successfully
+0	11:34:07.082	ZigZag USDJPY,H1: initialized
+0	11:34:07.096	RSI USDJPY,H1: initialized
+0	11:34:07.109	CCI USDJPY,H1: initialized
+0	15:08:57.057	Custom indicator ZigZag AUDCAD,H1: loaded successfully
+0	15:08:57.068	Custom indicator RSI AUDCAD,H1: loaded successfully
+0	15:08:57.078	Custom indicator CCI AUDCAD,H1: loaded successfully
+0	15:08:57.094	ZigZag AUDCAD,H1: initialized
+0	15:08:57.107	RSI AUDCAD,H1: initialized
+0	15:08:57.121	CCI AUDCAD,H1: initialized
+0	15:11:27.919	ZigZag AUDCAD,H1: uninit reason 4
+0	15:11:27.919	RSI AUDCAD,H1: uninit reason 4
+0	15:11:27.919	CCI AUDCAD,H1: uninit reason 4
+0	15:11:27.921	Custom indicator ZigZag AUDCAD,H1: removed
+0	15:11:27.922	Custom indicator RSI AUDCAD,H1: removed
+0	15:11:27.923	Custom indicator CCI AUDCAD,H1: removed
+0	15:11:42.751	Custom indicator ZigZag USDCAD,H1: loaded successfully
+0	15:11:42.762	Custom indicator RSI USDCAD,H1: loaded successfully
+0	15:11:42.771	Custom indicator CCI USDCAD,H1: loaded successfully
+0	15:11:42.787	ZigZag USDCAD,H1: initialized
+0	15:11:42.799	RSI USDCAD,H1: initialized
+0	15:11:42.812	CCI USDCAD,H1: initialized
+0	15:23:14.914	Custom indicator ZigZag USDCHF,H1: loaded successfully
+0	15:23:14.924	Custom indicator RSI USDCHF,H1: loaded successfully
+0	15:23:14.935	Custom indicator CCI USDCHF,H1: loaded successfully
+0	15:23:14.950	ZigZag USDCHF,H1: initialized
+0	15:23:14.962	RSI USDCHF,H1: initialized
+0	15:23:14.975	CCI USDCHF,H1: initialized

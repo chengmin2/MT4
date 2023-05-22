@@ -1,0 +1,39 @@
+0	14:26:04.119	Custom indicator ZigZag XAUUSD,H1: loaded successfully
+0	14:26:04.129	Custom indicator RSI XAUUSD,H1: loaded successfully
+0	14:26:04.139	Custom indicator CCI XAUUSD,H1: loaded successfully
+0	14:26:04.158	ZigZag XAUUSD,H1: initialized
+0	14:26:04.170	RSI XAUUSD,H1: initialized
+0	14:26:04.182	CCI XAUUSD,H1: initialized
+0	14:26:04.214	Custom indicator ZigZag EURJPY,H1: loaded successfully
+0	14:26:04.224	Custom indicator RSI EURJPY,H1: loaded successfully
+0	14:26:04.233	Custom indicator CCI EURJPY,H1: loaded successfully
+0	14:26:04.250	ZigZag EURJPY,H1: initialized
+0	14:26:04.262	RSI EURJPY,H1: initialized
+0	14:26:04.274	CCI EURJPY,H1: initialized
+0	14:26:04.314	Custom indicator ZigZag EURAUD,H1: loaded successfully
+0	14:26:04.324	Custom indicator RSI EURAUD,H1: loaded successfully
+0	14:26:04.333	Custom indicator CCI EURAUD,H1: loaded successfully
+0	14:26:04.349	ZigZag EURAUD,H1: initialized
+0	14:26:04.360	RSI EURAUD,H1: initialized
+0	14:26:04.373	CCI EURAUD,H1: initialized
+0	14:26:04.405	Custom indicator ZigZag EURCAD,H1: loaded successfully
+0	14:26:04.414	Custom indicator RSI EURCAD,H1: loaded successfully
+0	14:26:04.424	Custom indicator CCI EURCAD,H1: loaded successfully
+0	14:26:04.440	ZigZag EURCAD,H1: initialized
+0	14:26:04.451	RSI EURCAD,H1: initialized
+0	14:26:04.464	CCI EURCAD,H1: initialized
+0	14:26:04.499	Custom indicator ZigZag USDJPY,H1: loaded successfully
+0	14:26:04.509	Custom indicator RSI USDJPY,H1: loaded successfully
+0	14:26:04.519	Custom indicator CCI USDJPY,H1: loaded successfully
+0	14:26:04.535	ZigZag USDJPY,H1: initialized
+0	14:26:04.547	RSI USDJPY,H1: initialized
+0	14:26:04.560	CCI USDJPY,H1: initialized
+0	14:26:04.600	Custom indicator ZigZag USDCAD,H1: loaded successfully
+0	14:26:04.610	Custom indicator RSI USDCAD,H1: loaded successfully
+0	14:26:04.619	Custom indicator CCI USDCAD,H1: loaded successfully
+0	14:26:04.635	ZigZag USDCAD,H1: initialized
+0	14:26:04.646	RSI USDCAD,H1: initialized
+0	14:26:04.659	CCI USDCAD,H1: initialized
+0	14:26:04.691	Custom indicator ZigZag USDCHF,H1: loaded successfully
+0	14:26:04.701	Custom indicator RSI USDCHF,H1: loaded successfully
+0	14:26:04.710	Custom indicator CCI USDCHF,H1: loaded successfully
